@@ -1,0 +1,1345 @@
+,State,LocationDesc,GeographicLevel,"Data Value (Per 100,000 Population)",Gender,Race/Ethnicity,LocationID,Latitude,Longitude
+12,IN,Indiana,State,118.5,Female,Asian,18,39.9128,-86.2757
+19,NE,Nebraska,State,120.1,Male,Asian,31,41.5228,-99.8085
+22,NY,New York,State,83.4,Overall,More than one race,36,42.9465,-75.512
+54,GU,Guam,State,,Female,Black,66,13.4431,144.777
+86,AS,American Samoa,State,,Male,Overall,60,-14.2766,-170.367
+144,FL,Florida,State,214.3,Female,Overall,12,28.6588,-82.497
+196,AL,Alabama,State,164.9,Male,American Indian or Alaska Native,01,32.7949,-86.8267
+199,AL,Alabama,State,397.3,Female,Black,01,32.7949,-86.8267
+220,CO,Colorado,State,226.8,Overall,Hispanic,08,38.997,-105.549
+225,GA,Georgia,State,170.1,Male,Hispanic,13,32.6549,-83.4547
+260,AR,Arkansas,State,173.9,Female,Asian,05,34.8982,-92.434
+303,DE,Delaware,State,238.0,Female,Overall,10,38.9952,-75.5014
+348,CT,Connecticut,State,,Male,More than one race,09,41.6179,-72.7254
+370,IA,Iowa,State,255.4,Male,Asian,19,42.076,-93.5022
+380,GA,Georgia,State,409.5,Overall,Native Hawaiian or Other Pacific Islander,13,32.6549,-83.4547
+426,IA,Iowa,State,131.5,Female,Hispanic,19,42.076,-93.5022
+448,GA,Georgia,State,,Male,American Indian or Alaska Native,13,32.6549,-83.4547
+460,AL,Alabama,State,451.4,Overall,White,01,32.7949,-86.8267
+499,CA,California,State,252.7,Female,American Indian or Alaska Native,06,37.2414,-119.601
+549,AR,Arkansas,State,,Female,American Indian or Alaska Native,05,34.8982,-92.434
+593,CA,California,State,230.1,Male,More than one race,06,37.2414,-119.601
+641,FL,Florida,State,130.2,Overall,More than one race,12,28.6588,-82.497
+654,DE,Delaware,State,,Female,Native Hawaiian or Other Pacific Islander,10,38.9952,-75.5014
+658,DE,Delaware,State,129.1,Overall,Asian,10,38.9952,-75.5014
+894,GU,Guam,State,,Male,More than one race,66,13.4431,144.777
+940,AZ,Arizona,State,499.0,Male,Native Hawaiian or Other Pacific Islander,04,34.2921,-111.664
+975,HI,Hawaii,State,162.2,Female,Overall,15,20.2408,-156.326
+991,AS,American Samoa,State,,Overall,Asian,60,-14.2766,-170.367
+1000,CT,Connecticut,State,212.8,Female,White,09,41.6179,-72.7254
+1002,FL,Florida,State,,Female,Native Hawaiian or Other Pacific Islander,12,28.6588,-82.497
+1043,CA,California,State,129.9,Female,Asian,06,37.2414,-119.601
+1074,AZ,Arizona,State,302.3,Female,Black,04,34.2921,-111.664
+1105,CT,Connecticut,State,98.2,Female,Asian,09,41.6179,-72.7254
+1194,GU,Guam,State,444.6,Female,Overall,66,13.4431,144.777
+1229,CO,Colorado,State,298.8,Male,American Indian or Alaska Native,08,38.997,-105.549
+1270,GU,Guam,State,,Female,Asian,66,13.4431,144.777
+1289,HI,Hawaii,State,,Overall,American Indian or Alaska Native,15,20.2408,-156.326
+1305,DC,District of Columbia,State,356.3,Overall,Overall,11,38.9005,-77.0159
+1317,AS,American Samoa,State,,Female,Native Hawaiian or Other Pacific Islander,60,-14.2766,-170.367
+1348,AK,Alaska,State,596.4,Male,Native Hawaiian or Other Pacific Islander,02,64.3173,-152.571
+1350,FL,Florida,State,139.6,Male,American Indian or Alaska Native,12,28.6588,-82.497
+1445,AK,Alaska,State,203.5,Female,Overall,02,64.3173,-152.571
+1635,DC,District of Columbia,State,154.3,Overall,Asian,11,38.9005,-77.0159
+1664,GU,Guam,State,,Overall,American Indian or Alaska Native,66,13.4431,144.777
+1674,AL,Alabama,State,,Female,Native Hawaiian or Other Pacific Islander,01,32.7949,-86.8267
+1791,AK,Alaska,State,608.8,Male,American Indian or Alaska Native,02,64.3173,-152.571
+1837,GA,Georgia,State,357.2,Overall,Overall,13,32.6549,-83.4547
+1838,CA,California,State,229.5,Overall,Hispanic,06,37.2414,-119.601
+1944,AZ,Arizona,State,204.3,Female,More than one race,04,34.2921,-111.664
+1959,GU,Guam,State,,Male,Black,66,13.4431,144.777
+1986,AR,Arkansas,State,561.9,Male,White,05,34.8982,-92.434
+2134,CT,Connecticut,State,,Female,American Indian or Alaska Native,09,41.6179,-72.7254
+2158,FL,Florida,State,224.9,Overall,Hispanic,12,28.6588,-82.497
+2161,AL,Alabama,State,451.9,Overall,Overall,01,32.7949,-86.8267
+2229,DC,District of Columbia,State,445.6,Male,Overall,11,38.9005,-77.0159
+2245,IA,Iowa,State,461.9,Overall,Black,19,42.076,-93.5022
+2264,AK,Alaska,State,262.7,Female,More than one race,02,64.3173,-152.571
+2277,AL,Alabama,State,88.2,Female,Hispanic,01,32.7949,-86.8267
+2412,AK,Alaska,State,339.9,Overall,Black,02,64.3173,-152.571
+2432,FL,Florida,State,280.1,Overall,Overall,12,28.6588,-82.497
+2512,CA,California,State,435.5,Overall,Black,06,37.2414,-119.601
+2609,DC,District of Columbia,State,161.5,Female,Hispanic,11,38.9005,-77.0159
+2622,IA,Iowa,State,,Male,Native Hawaiian or Other Pacific Islander,19,42.076,-93.5022
+2626,CA,California,State,295.6,Male,Hispanic,06,37.2414,-119.601
+2699,GU,Guam,State,,Male,Asian,66,13.4431,144.777
+2831,CO,Colorado,State,252.6,Overall,Overall,08,38.997,-105.549
+2877,GA,Georgia,State,450.8,Male,Overall,13,32.6549,-83.4547
+3099,AZ,Arizona,State,175.1,Female,Hispanic,04,34.2921,-111.664
+3139,AS,American Samoa,State,,Female,White,60,-14.2766,-170.367
+3154,CA,California,State,210.8,Female,Overall,06,37.2414,-119.601
+3179,CT,Connecticut,State,144.9,Male,Asian,09,41.6179,-72.7254
+3191,CT,Connecticut,State,220.4,Male,Hispanic,09,41.6179,-72.7254
+3244,AR,Arkansas,State,72.1,Overall,More than one race,05,34.8982,-92.434
+3250,CO,Colorado,State,316.8,Male,White,08,38.997,-105.549
+3276,HI,Hawaii,State,257.5,Overall,Black,15,20.2408,-156.326
+3299,AZ,Arizona,State,196.3,Male,Asian,04,34.2921,-111.664
+3376,FL,Florida,State,219.3,Female,White,12,28.6588,-82.497
+3415,DC,District of Columbia,State,,Overall,More than one race,11,38.9005,-77.0159
+3427,DE,Delaware,State,313.5,Overall,Black,10,38.9952,-75.5014
+3465,GA,Georgia,State,58.0,Male,More than one race,13,32.6549,-83.4547
+3538,CO,Colorado,State,111.3,Overall,More than one race,08,38.997,-105.549
+3552,AL,Alabama,State,659.1,Male,Black,01,32.7949,-86.8267
+3561,HI,Hawaii,State,190.4,Female,Native Hawaiian or Other Pacific Islander,15,20.2408,-156.326
+3604,AR,Arkansas,State,181.9,Male,Hispanic,05,34.8982,-92.434
+3675,IA,Iowa,State,,Female,More than one race,19,42.076,-93.5022
+3724,DE,Delaware,State,107.3,Female,Hispanic,10,38.9952,-75.5014
+3830,DE,Delaware,State,159.7,Male,Asian,10,38.9952,-75.5014
+3929,GA,Georgia,State,285.0,Female,White,13,32.6549,-83.4547
+3945,CA,California,State,179.4,Overall,More than one race,06,37.2414,-119.601
+3948,HI,Hawaii,State,257.2,Male,Asian,15,20.2408,-156.326
+3967,IA,Iowa,State,264.1,Female,Overall,19,42.076,-93.5022
+4021,DC,District of Columbia,State,517.2,Overall,Black,11,38.9005,-77.0159
+4071,AZ,Arizona,State,362.7,Male,White,04,34.2921,-111.664
+4085,AS,American Samoa,State,,Female,Hispanic,60,-14.2766,-170.367
+4176,GU,Guam,State,571.2,Overall,Overall,66,13.4431,144.777
+4216,FL,Florida,State,370.7,Male,White,12,28.6588,-82.497
+4253,AZ,Arizona,State,279.2,Female,Native Hawaiian or Other Pacific Islander,04,34.2921,-111.664
+4298,AS,American Samoa,State,,Male,Asian,60,-14.2766,-170.367
+4308,CT,Connecticut,State,322.0,Overall,Black,09,41.6179,-72.7254
+4309,FL,Florida,State,,Male,Native Hawaiian or Other Pacific Islander,12,28.6588,-82.497
+4332,AZ,Arizona,State,227.2,Female,White,04,34.2921,-111.664
+4337,CA,California,State,305.9,Female,Native Hawaiian or Other Pacific Islander,06,37.2414,-119.601
+4347,GA,Georgia,State,189.8,Male,Asian,13,32.6549,-83.4547
+4367,CA,California,State,168.8,Overall,Asian,06,37.2414,-119.601
+4502,DE,Delaware,State,104.7,Female,Asian,10,38.9952,-75.5014
+4630,AK,Alaska,State,533.1,Overall,Native Hawaiian or Other Pacific Islander,02,64.3173,-152.571
+4644,AR,Arkansas,State,905.4,Female,Native Hawaiian or Other Pacific Islander,05,34.8982,-92.434
+4823,CA,California,State,277.4,Overall,Overall,06,37.2414,-119.601
+4851,DC,District of Columbia,State,162.5,Overall,White,11,38.9005,-77.0159
+4956,DC,District of Columbia,State,252.1,Male,Hispanic,11,38.9005,-77.0159
+5026,AS,American Samoa,State,,Male,White,60,-14.2766,-170.367
+5033,GU,Guam,State,,Overall,White,66,13.4431,144.777
+5102,GA,Georgia,State,139.2,Overall,Hispanic,13,32.6549,-83.4547
+5121,AR,Arkansas,State,410.7,Female,Black,05,34.8982,-92.434
+5137,CO,Colorado,State,204.6,Female,White,08,38.997,-105.549
+5297,DC,District of Columbia,State,,Overall,Native Hawaiian or Other Pacific Islander,11,38.9005,-77.0159
+5304,CO,Colorado,State,141.8,Male,Asian,08,38.997,-105.549
+5315,AZ,Arizona,State,353.2,Male,Overall,04,34.2921,-111.664
+5358,AL,Alabama,State,567.4,Male,White,01,32.7949,-86.8267
+5363,AR,Arkansas,State,446.0,Overall,White,05,34.8982,-92.434
+5373,IA,Iowa,State,169.6,Male,Hispanic,19,42.076,-93.5022
+5480,CT,Connecticut,State,,Overall,Native Hawaiian or Other Pacific Islander,09,41.6179,-72.7254
+5538,IA,Iowa,State,190.6,Overall,Asian,19,42.076,-93.5022
+5547,DE,Delaware,State,,Female,American Indian or Alaska Native,10,38.9952,-75.5014
+5571,AL,Alabama,State,136.2,Female,Asian,01,32.7949,-86.8267
+5590,AL,Alabama,State,177.7,Male,Asian,01,32.7949,-86.8267
+5624,GA,Georgia,State,,Male,Native Hawaiian or Other Pacific Islander,13,32.6549,-83.4547
+5660,AK,Alaska,State,323.7,Female,American Indian or Alaska Native,02,64.3173,-152.571
+5731,DE,Delaware,State,318.8,Overall,White,10,38.9952,-75.5014
+5759,IA,Iowa,State,342.9,Overall,Overall,19,42.076,-93.5022
+5782,GU,Guam,State,,Female,More than one race,66,13.4431,144.777
+5790,AK,Alaska,State,345.3,Male,Overall,02,64.3173,-152.571
+5801,CT,Connecticut,State,,Female,More than one race,09,41.6179,-72.7254
+5819,CT,Connecticut,State,347.2,Male,Overall,09,41.6179,-72.7254
+5834,HI,Hawaii,State,252.9,Overall,White,15,20.2408,-156.326
+6039,IA,Iowa,State,,Female,Native Hawaiian or Other Pacific Islander,19,42.076,-93.5022
+6050,DC,District of Columbia,State,,Female,American Indian or Alaska Native,11,38.9005,-77.0159
+6215,GU,Guam,State,,Overall,Native Hawaiian or Other Pacific Islander,66,13.4431,144.777
+6256,AS,American Samoa,State,,Male,Native Hawaiian or Other Pacific Islander,60,-14.2766,-170.367
+6304,FL,Florida,State,119.9,Female,American Indian or Alaska Native,12,28.6588,-82.497
+6316,GA,Georgia,State,282.2,Female,Overall,13,32.6549,-83.4547
+6383,IA,Iowa,State,347.0,Overall,White,19,42.076,-93.5022
+6495,DC,District of Columbia,State,,Male,More than one race,11,38.9005,-77.0159
+6503,AR,Arkansas,State,208.6,Overall,Asian,05,34.8982,-92.434
+6620,DC,District of Columbia,State,123.7,Female,Asian,11,38.9005,-77.0159
+6661,DE,Delaware,State,164.5,Male,Hispanic,10,38.9952,-75.5014
+6679,AL,Alabama,State,32.9,Overall,More than one race,01,32.7949,-86.8267
+6709,CO,Colorado,State,113.2,Female,Asian,08,38.997,-105.549
+6738,CO,Colorado,State,264.5,Overall,American Indian or Alaska Native,08,38.997,-105.549
+6800,AK,Alaska,State,159.3,Male,Hispanic,02,64.3173,-152.571
+6883,GA,Georgia,State,26.3,Female,More than one race,13,32.6549,-83.4547
+6884,DE,Delaware,State,410.1,Male,Black,10,38.9952,-75.5014
+6891,HI,Hawaii,State,,Male,American Indian or Alaska Native,15,20.2408,-156.326
+6895,AK,Alaska,State,184.4,Female,White,02,64.3173,-152.571
+7002,HI,Hawaii,State,291.8,Female,More than one race,15,20.2408,-156.326
+7110,HI,Hawaii,State,528.6,Male,Hispanic,15,20.2408,-156.326
+7136,CT,Connecticut,State,,Male,American Indian or Alaska Native,09,41.6179,-72.7254
+7165,GU,Guam,State,,Female,Hispanic,66,13.4431,144.777
+7198,CA,California,State,237.7,Female,White,06,37.2414,-119.601
+7270,HI,Hawaii,State,377.6,Male,Black,15,20.2408,-156.326
+7272,AR,Arkansas,State,438.2,Overall,Overall,05,34.8982,-92.434
+7289,DC,District of Columbia,State,287.9,Female,Overall,11,38.9005,-77.0159
+7344,AS,American Samoa,State,,Female,More than one race,60,-14.2766,-170.367
+7367,AR,Arkansas,State,115.9,Female,Hispanic,05,34.8982,-92.434
+7400,GA,Georgia,State,395.7,Overall,Black,13,32.6549,-83.4547
+7471,IA,Iowa,State,565.0,Male,Black,19,42.076,-93.5022
+7531,GA,Georgia,State,77.1,Overall,American Indian or Alaska Native,13,32.6549,-83.4547
+7548,AS,American Samoa,State,,Overall,American Indian or Alaska Native,60,-14.2766,-170.367
+7642,CA,California,State,175.7,Female,Hispanic,06,37.2414,-119.601
+7751,DE,Delaware,State,,Overall,More than one race,10,38.9952,-75.5014
+7822,AL,Alabama,State,151.9,Male,Hispanic,01,32.7949,-86.8267
+7838,FL,Florida,State,295.0,Male,Hispanic,12,28.6588,-82.497
+7839,AK,Alaska,State,462.9,Male,More than one race,02,64.3173,-152.571
+7912,GU,Guam,State,,Male,White,66,13.4431,144.777
+7993,HI,Hawaii,State,323.2,Male,Native Hawaiian or Other Pacific Islander,15,20.2408,-156.326
+8014,CO,Colorado,State,145.6,Male,More than one race,08,38.997,-105.549
+8023,GU,Guam,State,,Overall,Asian,66,13.4431,144.777
+8078,AZ,Arizona,State,299.7,Male,Hispanic,04,34.2921,-111.664
+8107,HI,Hawaii,State,238.7,Overall,Overall,15,20.2408,-156.326
+8123,DC,District of Columbia,State,691.2,Male,Black,11,38.9005,-77.0159
+8213,CA,California,State,357.8,Male,Overall,06,37.2414,-119.601
+8268,DE,Delaware,State,307.3,Overall,Overall,10,38.9952,-75.5014
+8287,CT,Connecticut,State,184.0,Overall,Hispanic,09,41.6179,-72.7254
+8324,AZ,Arizona,State,158.6,Overall,Asian,04,34.2921,-111.664
+8329,CO,Colorado,State,426.4,Male,Black,08,38.997,-105.549
+8403,DC,District of Columbia,State,201.4,Overall,Hispanic,11,38.9005,-77.0159
+8408,IA,Iowa,State,,Female,American Indian or Alaska Native,19,42.076,-93.5022
+8437,DE,Delaware,State,,Overall,Native Hawaiian or Other Pacific Islander,10,38.9952,-75.5014
+8549,AR,Arkansas,State,624.0,Male,Black,05,34.8982,-92.434
+8614,GA,Georgia,State,366.1,Overall,White,13,32.6549,-83.4547
+8673,AK,Alaska,State,172.7,Overall,Asian,02,64.3173,-152.571
+8702,AZ,Arizona,State,246.2,Overall,More than one race,04,34.2921,-111.664
+8706,GU,Guam,State,,Female,White,66,13.4431,144.777
+8769,CA,California,State,516.4,Male,Native Hawaiian or Other Pacific Islander,06,37.2414,-119.601
+8777,AZ,Arizona,State,375.1,Overall,Black,04,34.2921,-111.664
+8791,DC,District of Columbia,State,198.8,Male,White,11,38.9005,-77.0159
+8860,CT,Connecticut,State,,Male,Native Hawaiian or Other Pacific Islander,09,41.6179,-72.7254
+9024,GU,Guam,State,,Male,Native Hawaiian or Other Pacific Islander,66,13.4431,144.777
+9052,AR,Arkansas,State,514.2,Male,Native Hawaiian or Other Pacific Islander,05,34.8982,-92.434
+9060,AK,Alaska,State,115.6,Female,Asian,02,64.3173,-152.571
+9066,AS,American Samoa,State,,Overall,Native Hawaiian or Other Pacific Islander,60,-14.2766,-170.367
+9139,DE,Delaware,State,407.6,Male,White,10,38.9952,-75.5014
+9163,FL,Florida,State,291.1,Overall,White,12,28.6588,-82.497
+9226,DC,District of Columbia,State,,Male,Native Hawaiian or Other Pacific Islander,11,38.9005,-77.0159
+9242,AK,Alaska,State,299.1,Female,Black,02,64.3173,-152.571
+9264,CO,Colorado,State,,Male,Native Hawaiian or Other Pacific Islander,08,38.997,-105.549
+9294,HI,Hawaii,State,505.9,Male,More than one race,15,20.2408,-156.326
+9297,GA,Georgia,State,151.1,Overall,Asian,13,32.6549,-83.4547
+9333,CA,California,State,218.5,Male,Asian,06,37.2414,-119.601
+9395,AL,Alabama,State,,Overall,Native Hawaiian or Other Pacific Islander,01,32.7949,-86.8267
+9418,FL,Florida,State,288.1,Female,Black,12,28.6588,-82.497
+9447,FL,Florida,State,102.2,Female,More than one race,12,28.6588,-82.497
+9478,DE,Delaware,State,,Male,American Indian or Alaska Native,10,38.9952,-75.5014
+9493,CT,Connecticut,State,415.7,Male,Black,09,41.6179,-72.7254
+9600,DC,District of Columbia,State,,Male,American Indian or Alaska Native,11,38.9005,-77.0159
+9703,AZ,Arizona,State,131.5,Female,Asian,04,34.2921,-111.664
+9729,IA,Iowa,State,445.6,Male,White,19,42.076,-93.5022
+9738,HI,Hawaii,State,334.2,Male,White,15,20.2408,-156.326
+9756,AZ,Arizona,State,218.9,Female,Overall,04,34.2921,-111.664
+9760,FL,Florida,State,158.8,Overall,Native Hawaiian or Other Pacific Islander,12,28.6588,-82.497
+9788,AS,American Samoa,State,,Male,American Indian or Alaska Native,60,-14.2766,-170.367
+9815,AR,Arkansas,State,344.8,Female,Overall,05,34.8982,-92.434
+9967,AS,American Samoa,State,,Overall,White,60,-14.2766,-170.367
+9986,CA,California,State,402.8,Male,White,06,37.2414,-119.601
+10082,AL,Alabama,State,155.0,Overall,Asian,01,32.7949,-86.8267
+10095,HI,Hawaii,State,,Female,Black,15,20.2408,-156.326
+10113,GA,Georgia,State,,Female,Native Hawaiian or Other Pacific Islander,13,32.6549,-83.4547
+10147,CO,Colorado,State,346.6,Overall,Black,08,38.997,-105.549
+10232,AS,American Samoa,State,,Female,Black,60,-14.2766,-170.367
+10239,DE,Delaware,State,242.1,Female,Black,10,38.9952,-75.5014
+10246,AK,Alaska,State,314.2,Male,White,02,64.3173,-152.571
+10262,FL,Florida,State,356.6,Male,Overall,12,28.6588,-82.497
+10282,CT,Connecticut,State,210.3,Female,Overall,09,41.6179,-72.7254
+10313,CO,Colorado,State,126.1,Overall,Asian,08,38.997,-105.549
+10367,IA,Iowa,State,152.2,Overall,Hispanic,19,42.076,-93.5022
+10426,AL,Alabama,State,570.3,Male,Overall,01,32.7949,-86.8267
+10449,CO,Colorado,State,312.3,Male,Overall,08,38.997,-105.549
+10509,HI,Hawaii,State,434.8,Overall,Hispanic,15,20.2408,-156.326
+10513,IA,Iowa,State,,Overall,More than one race,19,42.076,-93.5022
+10547,AL,Alabama,State,,Male,More than one race,01,32.7949,-86.8267
+10646,DE,Delaware,State,135.9,Overall,Hispanic,10,38.9952,-75.5014
+10803,HI,Hawaii,State,,Female,American Indian or Alaska Native,15,20.2408,-156.326
+10868,IA,Iowa,State,365.1,Female,Black,19,42.076,-93.5022
+10972,AS,American Samoa,State,,Overall,Hispanic,60,-14.2766,-170.367
+10990,AR,Arkansas,State,505.1,Overall,Black,05,34.8982,-92.434
+11075,AS,American Samoa,State,,Male,Black,60,-14.2766,-170.367
+11124,CT,Connecticut,State,172.1,Overall,American Indian or Alaska Native,09,41.6179,-72.7254
+11173,CO,Colorado,State,268.6,Overall,Native Hawaiian or Other Pacific Islander,08,38.997,-105.549
+11197,CO,Colorado,State,178.2,Female,Hispanic,08,38.997,-105.549
+11234,FL,Florida,State,172.8,Female,Hispanic,12,28.6588,-82.497
+11255,AZ,Arizona,State,184.5,Female,American Indian or Alaska Native,04,34.2921,-111.664
+11294,CO,Colorado,State,201.1,Female,Overall,08,38.997,-105.549
+11423,AL,Alabama,State,355.2,Female,White,01,32.7949,-86.8267
+11447,GU,Guam,State,,Female,American Indian or Alaska Native,66,13.4431,144.777
+11481,CA,California,State,333.2,Female,Black,06,37.2414,-119.601
+11525,AR,Arkansas,State,256.6,Male,Asian,05,34.8982,-92.434
+11557,CA,California,State,323.4,Overall,American Indian or Alaska Native,06,37.2414,-119.601
+11601,IA,Iowa,State,152.6,Female,Asian,19,42.076,-93.5022
+11618,AK,Alaska,State,246.0,Male,Asian,02,64.3173,-152.571
+11632,GU,Guam,State,,Male,Hispanic,66,13.4431,144.777
+11683,DE,Delaware,State,,Male,More than one race,10,38.9952,-75.5014
+11756,AK,Alaska,State,135.5,Overall,Hispanic,02,64.3173,-152.571
+11785,AK,Alaska,State,,Female,Hispanic,02,64.3173,-152.571
+11861,GA,Georgia,State,502.4,Male,Black,13,32.6549,-83.4547
+11883,AS,American Samoa,State,,Overall,Overall,60,-14.2766,-170.367
+12010,AZ,Arizona,State,231.1,Overall,Hispanic,04,34.2921,-111.664
+12027,DC,District of Columbia,State,402.2,Female,Black,11,38.9005,-77.0159
+12233,CO,Colorado,State,272.1,Female,Black,08,38.997,-105.549
+12255,AK,Alaska,State,346.5,Overall,More than one race,02,64.3173,-152.571
+12281,AS,American Samoa,State,,Male,More than one race,60,-14.2766,-170.367
+12304,CT,Connecticut,State,,Female,Native Hawaiian or Other Pacific Islander,09,41.6179,-72.7254
+12315,FL,Florida,State,142.8,Overall,Asian,12,28.6588,-82.497
+12349,AL,Alabama,State,120.9,Overall,Hispanic,01,32.7949,-86.8267
+12429,CO,Colorado,State,82.6,Female,More than one race,08,38.997,-105.549
+12430,HI,Hawaii,State,257.6,Overall,Native Hawaiian or Other Pacific Islander,15,20.2408,-156.326
+12470,GA,Georgia,State,111.4,Female,Hispanic,13,32.6549,-83.4547
+12495,DC,District of Columbia,State,,Female,More than one race,11,38.9005,-77.0159
+12535,CT,Connecticut,State,254.3,Female,Black,09,41.6179,-72.7254
+12545,AR,Arkansas,State,92.4,Overall,American Indian or Alaska Native,05,34.8982,-92.434
+12616,GU,Guam,State,,Overall,More than one race,66,13.4431,144.777
+12647,CT,Connecticut,State,276.5,Overall,White,09,41.6179,-72.7254
+12672,AK,Alaska,State,367.1,Male,Black,02,64.3173,-152.571
+12694,DE,Delaware,State,392.2,Male,Overall,10,38.9952,-75.5014
+12696,HI,Hawaii,State,327.9,Male,Overall,15,20.2408,-156.326
+12697,GU,Guam,State,,Overall,Black,66,13.4431,144.777
+12714,CO,Colorado,State,,Female,Native Hawaiian or Other Pacific Islander,08,38.997,-105.549
+12762,HI,Hawaii,State,395.5,Overall,More than one race,15,20.2408,-156.326
+12786,CT,Connecticut,State,,Overall,More than one race,09,41.6179,-72.7254
+12870,AS,American Samoa,State,,Female,Overall,60,-14.2766,-170.367
+12921,GU,Guam,State,,Female,Native Hawaiian or Other Pacific Islander,66,13.4431,144.777
+12965,FL,Florida,State,162.6,Male,More than one race,12,28.6588,-82.497
+13049,HI,Hawaii,State,353.8,Female,Hispanic,15,20.2408,-156.326
+13100,AS,American Samoa,State,,Female,Asian,60,-14.2766,-170.367
+13129,GA,Georgia,State,462.9,Male,White,13,32.6549,-83.4547
+13230,DC,District of Columbia,State,,Female,Native Hawaiian or Other Pacific Islander,11,38.9005,-77.0159
+13234,IA,Iowa,State,235.9,Overall,American Indian or Alaska Native,19,42.076,-93.5022
+13256,AZ,Arizona,State,294.9,Male,More than one race,04,34.2921,-111.664
+13279,GA,Georgia,State,,Female,American Indian or Alaska Native,13,32.6549,-83.4547
+13287,AZ,Arizona,State,291.9,Overall,White,04,34.2921,-111.664
+13358,AR,Arkansas,State,112.6,Male,American Indian or Alaska Native,05,34.8982,-92.434
+13368,CA,California,State,401.8,Male,American Indian or Alaska Native,06,37.2414,-119.601
+13447,IA,Iowa,State,,Male,American Indian or Alaska Native,19,42.076,-93.5022
+13451,AL,Alabama,State,,Male,Native Hawaiian or Other Pacific Islander,01,32.7949,-86.8267
+13547,AR,Arkansas,State,713.8,Overall,Native Hawaiian or Other Pacific Islander,05,34.8982,-92.434
+13548,AL,Alabama,State,149.6,Female,American Indian or Alaska Native,01,32.7949,-86.8267
+13551,GA,Georgia,State,118.1,Female,Asian,13,32.6549,-83.4547
+13569,CO,Colorado,State,283.4,Male,Hispanic,08,38.997,-105.549
+13684,AK,Alaska,State,249.3,Overall,White,02,64.3173,-152.571
+13880,DC,District of Columbia,State,205.5,Male,Asian,11,38.9005,-77.0159
+13916,CA,California,State,313.7,Overall,White,06,37.2414,-119.601
+13919,CA,California,State,136.5,Female,More than one race,06,37.2414,-119.601
+13970,GU,Guam,State,719.4,Male,Overall,66,13.4431,144.777
+14180,AZ,Arizona,State,380.3,Overall,Native Hawaiian or Other Pacific Islander,04,34.2921,-111.664
+14229,FL,Florida,State,110.4,Female,Asian,12,28.6588,-82.497
+14236,AR,Arkansas,State,64.0,Female,More than one race,05,34.8982,-92.434
+14243,AR,Arkansas,State,549.1,Male,Overall,05,34.8982,-92.434
+14251,AS,American Samoa,State,,Female,American Indian or Alaska Native,60,-14.2766,-170.367
+14272,AZ,Arizona,State,454.7,Male,Black,04,34.2921,-111.664
+14287,CA,California,State,407.9,Overall,Native Hawaiian or Other Pacific Islander,06,37.2414,-119.601
+14323,AL,Alabama,State,356.5,Female,Overall,01,32.7949,-86.8267
+14413,FL,Florida,State,437.1,Male,Black,12,28.6588,-82.497
+14417,ID,Idaho,State,372.2,Male,Overall,16,44.3858,-114.661
+14440,MA,Massachusetts,State,161.6,Male,More than one race,25,42.2573,-71.8024
+14444,DE,Delaware,State,,Male,Native Hawaiian or Other Pacific Islander,10,38.9952,-75.5014
+14494,CO,Colorado,State,231.1,Female,American Indian or Alaska Native,08,38.997,-105.549
+14592,AK,Alaska,State,475.0,Female,Native Hawaiian or Other Pacific Islander,02,64.3173,-152.571
+14697,GA,Georgia,State,39.8,Overall,More than one race,13,32.6549,-83.4547
+14728,GU,Guam,State,,Male,American Indian or Alaska Native,66,13.4431,144.777
+14778,CA,California,State,561.6,Male,Black,06,37.2414,-119.601
+14841,NH,New Hampshire,State,372.1,Male,Overall,33,43.6834,-71.5794
+14868,AZ,Arizona,State,265.4,Overall,American Indian or Alaska Native,04,34.2921,-111.664
+14893,DC,District of Columbia,State,,Overall,American Indian or Alaska Native,11,38.9005,-77.0159
+14923,IA,Iowa,State,,Male,More than one race,19,42.076,-93.5022
+14959,CT,Connecticut,State,152.1,Female,Hispanic,09,41.6179,-72.7254
+15062,AZ,Arizona,State,375.3,Male,American Indian or Alaska Native,04,34.2921,-111.664
+15204,IA,Iowa,State,266.1,Female,White,19,42.076,-93.5022
+15241,AL,Alabama,State,507.1,Overall,Black,01,32.7949,-86.8267
+15274,AS,American Samoa,State,,Male,Hispanic,60,-14.2766,-170.367
+15326,AR,Arkansas,State,347.5,Female,White,05,34.8982,-92.434
+15468,DE,Delaware,State,,Female,More than one race,10,38.9952,-75.5014
+15478,DE,Delaware,State,,Overall,American Indian or Alaska Native,10,38.9952,-75.5014
+15523,AK,Alaska,State,272.2,Overall,Overall,02,64.3173,-152.571
+15533,AL,Alabama,State,157.4,Overall,American Indian or Alaska Native,01,32.7949,-86.8267
+15537,NV,Nevada,State,541.4,Male,White,32,39.352,-116.65
+15569,FL,Florida,State,130.0,Overall,American Indian or Alaska Native,12,28.6588,-82.497
+15641,DE,Delaware,State,245.3,Female,White,10,38.9952,-75.5014
+15676,HI,Hawaii,State,178.3,Overall,Asian,15,20.2408,-156.326
+15806,HI,Hawaii,State,120.6,Female,Asian,15,20.2408,-156.326
+15888,DC,District of Columbia,State,127.5,Female,White,11,38.9005,-77.0159
+15896,GU,Guam,State,,Overall,Hispanic,66,13.4431,144.777
+15913,IA,Iowa,State,,Overall,Native Hawaiian or Other Pacific Islander,19,42.076,-93.5022
+15960,AS,American Samoa,State,,Overall,Black,60,-14.2766,-170.367
+15978,CT,Connecticut,State,356.9,Male,White,09,41.6179,-72.7254
+15997,CT,Connecticut,State,120.1,Overall,Asian,09,41.6179,-72.7254
+16033,CO,Colorado,State,256.5,Overall,White,08,38.997,-105.549
+16056,FL,Florida,State,185.0,Male,Asian,12,28.6588,-82.497
+16098,HI,Hawaii,State,169.9,Female,White,15,20.2408,-156.326
+16147,AS,American Samoa,State,,Overall,More than one race,60,-14.2766,-170.367
+16168,MS,Mississippi,State,573.7,Male,White,28,32.7577,-89.6646
+16196,FL,Florida,State,353.5,Overall,Black,12,28.6588,-82.497
+16271,CT,Connecticut,State,270.6,Overall,Overall,09,41.6179,-72.7254
+16288,IA,Iowa,State,438.5,Male,Overall,19,42.076,-93.5022
+16307,AZ,Arizona,State,282.1,Overall,Overall,04,34.2921,-111.664
+16367,GA,Georgia,State,319.2,Female,Black,13,32.6549,-83.4547
+16372,OH,Ohio,State,42.1,Female,More than one race,39,40.2882,-82.7866
+16435,AR,Arkansas,State,150.2,Overall,Hispanic,05,34.8982,-92.434
+16563,AL,Alabama,State,,Female,More than one race,01,32.7949,-86.8267
+16631,AR,Arkansas,State,79.1,Male,More than one race,05,34.8982,-92.434
+16662,AK,Alaska,State,442.5,Overall,American Indian or Alaska Native,02,64.3173,-152.571
+16687,WV,West Virginia,State,501.2,Male,White,54,38.6411,-80.6147
+16928,LA,Louisiana,State,135.1,Female,Asian,22,31.0964,-92.0302
+16982,IL,Illinois,State,110.3,Female,Asian,17,40.0644,-89.2034
+16989,LA,Louisiana,State,200.9,Male,Hispanic,22,31.0964,-92.0302
+17156,WI,Wisconsin,State,579.8,Male,Black,55,44.6333,-90.0068
+17158,MA,Massachusetts,State,166.8,Overall,Hispanic,25,42.2573,-71.8024
+17198,MA,Massachusetts,State,262.0,Overall,White,25,42.2573,-71.8024
+17255,MI,Michigan,State,727.0,Male,Black,26,44.3371,-85.4387
+17259,ID,Idaho,State,75.1,Overall,More than one race,16,44.3858,-114.661
+17347,MD,Maryland,State,,Female,American Indian or Alaska Native,24,39.0648,-76.82
+17375,ME,Maine,State,,Female,Black,23,45.3889,-69.2349
+17436,KY,Kentucky,State,404.9,Overall,White,21,37.5266,-85.29
+17439,KS,Kansas,State,469.6,Overall,Black,20,38.4828,-98.384
+17499,MD,Maryland,State,321.4,Overall,White,24,39.0648,-76.82
+17577,KY,Kentucky,State,,Female,More than one race,21,37.5266,-85.29
+17667,MI,Michigan,State,191.5,Overall,More than one race,26,44.3371,-85.4387
+17967,MA,Massachusetts,State,,Female,Native Hawaiian or Other Pacific Islander,25,42.2573,-71.8024
+18260,ME,Maine,State,,Overall,More than one race,23,45.3889,-69.2349
+18293,ID,Idaho,State,,Female,Asian,16,44.3858,-114.661
+18320,ME,Maine,State,225.4,Female,Overall,23,45.3889,-69.2349
+18396,KS,Kansas,State,255.6,Female,Overall,20,38.4828,-98.384
+18466,KY,Kentucky,State,449.2,Overall,Black,21,37.5266,-85.29
+18618,KY,Kentucky,State,,Female,Native Hawaiian or Other Pacific Islander,21,37.5266,-85.29
+18718,IL,Illinois,State,226.6,Male,Hispanic,17,40.0644,-89.2034
+18757,MA,Massachusetts,State,135.4,Male,Asian,25,42.2573,-71.8024
+18769,ID,Idaho,State,241.4,Female,Overall,16,44.3858,-114.661
+18780,MI,Michigan,State,199.6,Female,Hispanic,26,44.3371,-85.4387
+18786,ME,Maine,State,,Female,Asian,23,45.3889,-69.2349
+18909,LA,Louisiana,State,,Female,More than one race,22,31.0964,-92.0302
+19074,KS,Kansas,State,130.8,Female,Asian,20,38.4828,-98.384
+19114,ID,Idaho,State,172.4,Overall,Hispanic,16,44.3858,-114.661
+19208,MD,Maryland,State,293.8,Female,Black,24,39.0648,-76.82
+19586,ME,Maine,State,,Male,More than one race,23,45.3889,-69.2349
+19589,KY,Kentucky,State,225.0,Male,Asian,21,37.5266,-85.29
+19650,IN,Indiana,State,357.0,Overall,Overall,18,39.9128,-86.2757
+19751,ME,Maine,State,270.2,Male,Black,23,45.3889,-69.2349
+19853,MI,Michigan,State,141.7,Female,Asian,26,44.3371,-85.4387
+20061,IL,Illinois,State,99.3,Overall,More than one race,17,40.0644,-89.2034
+20105,LA,Louisiana,State,499.3,Overall,Black,22,31.0964,-92.0302
+20273,MA,Massachusetts,State,,Male,American Indian or Alaska Native,25,42.2573,-71.8024
+20340,ID,Idaho,State,205.8,Male,Hispanic,16,44.3858,-114.661
+20403,IL,Illinois,State,251.1,Female,Overall,17,40.0644,-89.2034
+20429,IN,Indiana,State,281.3,Female,White,18,39.9128,-86.2757
+20442,KY,Kentucky,State,,Overall,American Indian or Alaska Native,21,37.5266,-85.29
+20461,IN,Indiana,State,237.6,Male,Hispanic,18,39.9128,-86.2757
+20471,ME,Maine,State,273.9,Overall,American Indian or Alaska Native,23,45.3889,-69.2349
+20475,MD,Maryland,State,,Overall,Native Hawaiian or Other Pacific Islander,24,39.0648,-76.82
+20502,MI,Michigan,State,233.5,Male,More than one race,26,44.3371,-85.4387
+20536,KS,Kansas,State,253.8,Male,Hispanic,20,38.4828,-98.384
+20539,MD,Maryland,State,,Male,American Indian or Alaska Native,24,39.0648,-76.82
+20553,LA,Louisiana,State,333.0,Female,Overall,22,31.0964,-92.0302
+20862,KS,Kansas,State,410.1,Male,More than one race,20,38.4828,-98.384
+20956,MI,Michigan,State,,Female,Native Hawaiian or Other Pacific Islander,26,44.3371,-85.4387
+21055,KY,Kentucky,State,,Male,More than one race,21,37.5266,-85.29
+21170,MA,Massachusetts,State,116.9,Overall,Asian,25,42.2573,-71.8024
+21208,KS,Kansas,State,562.7,Male,Black,20,38.4828,-98.384
+21329,MD,Maryland,State,317.6,Overall,Overall,24,39.0648,-76.82
+21335,LA,Louisiana,State,544.9,Male,Overall,22,31.0964,-92.0302
+21356,ME,Maine,State,,Overall,Hispanic,23,45.3889,-69.2349
+21375,LA,Louisiana,State,143.4,Female,Hispanic,22,31.0964,-92.0302
+21390,MI,Michigan,State,379.9,Overall,White,26,44.3371,-85.4387
+21428,MI,Michigan,State,298.8,Female,White,26,44.3371,-85.4387
+21628,ID,Idaho,State,250.7,Female,White,16,44.3858,-114.661
+21639,ME,Maine,State,228.8,Female,White,23,45.3889,-69.2349
+21679,ID,Idaho,State,,Female,Native Hawaiian or Other Pacific Islander,16,44.3858,-114.661
+21711,KS,Kansas,State,255.2,Female,White,20,38.4828,-98.384
+21738,MD,Maryland,State,,Male,Native Hawaiian or Other Pacific Islander,24,39.0648,-76.82
+21740,KY,Kentucky,State,119.9,Overall,Hispanic,21,37.5266,-85.29
+21747,IN,Indiana,State,144.2,Female,Hispanic,18,39.9128,-86.2757
+21759,LA,Louisiana,State,203.1,Male,Asian,22,31.0964,-92.0302
+21904,IL,Illinois,State,102.8,Female,American Indian or Alaska Native,17,40.0644,-89.2034
+22063,IL,Illinois,State,122.6,Male,American Indian or Alaska Native,17,40.0644,-89.2034
+22085,MD,Maryland,State,105.5,Female,Hispanic,24,39.0648,-76.82
+22094,MA,Massachusetts,State,193.1,Female,Overall,25,42.2573,-71.8024
+22146,MI,Michigan,State,432.1,Female,Black,26,44.3371,-85.4387
+22172,IN,Indiana,State,54.1,Male,More than one race,18,39.9128,-86.2757
+22283,KY,Kentucky,State,514.9,Male,White,21,37.5266,-85.29
+22284,MA,Massachusetts,State,,Male,Native Hawaiian or Other Pacific Islander,25,42.2573,-71.8024
+22309,MI,Michigan,State,169.9,Overall,Asian,26,44.3371,-85.4387
+22346,MD,Maryland,State,405.6,Male,White,24,39.0648,-76.82
+22522,IN,Indiana,State,583.7,Male,Black,18,39.9128,-86.2757
+22619,ME,Maine,State,,Female,Native Hawaiian or Other Pacific Islander,23,45.3889,-69.2349
+22691,ID,Idaho,State,195.3,Male,Asian,16,44.3858,-114.661
+22851,MD,Maryland,State,132.1,Overall,Asian,24,39.0648,-76.82
+22877,ME,Maine,State,376.9,Male,Overall,23,45.3889,-69.2349
+23002,IL,Illinois,State,,Overall,Native Hawaiian or Other Pacific Islander,17,40.0644,-89.2034
+23138,IN,Indiana,State,205.5,Male,Asian,18,39.9128,-86.2757
+23184,IL,Illinois,State,178.5,Overall,Hispanic,17,40.0644,-89.2034
+23239,MI,Michigan,State,303.0,Overall,American Indian or Alaska Native,26,44.3371,-85.4387
+23274,MD,Maryland,State,500.9,Male,Black,24,39.0648,-76.82
+23350,KY,Kentucky,State,398.1,Overall,Overall,21,37.5266,-85.29
+23475,MD,Maryland,State,56.8,Male,More than one race,24,39.0648,-76.82
+23496,ID,Idaho,State,234.9,Overall,Black,16,44.3858,-114.661
+23563,KS,Kansas,State,176.8,Male,Asian,20,38.4828,-98.384
+23600,KY,Kentucky,State,,Overall,More than one race,21,37.5266,-85.29
+23700,ME,Maine,State,,Male,Asian,23,45.3889,-69.2349
+23870,IL,Illinois,State,329.5,Overall,White,17,40.0644,-89.2034
+23909,KY,Kentucky,State,100.9,Female,Hispanic,21,37.5266,-85.29
+23955,ME,Maine,State,,Female,More than one race,23,45.3889,-69.2349
+24058,IN,Indiana,State,36.9,Overall,More than one race,18,39.9128,-86.2757
+24192,MI,Michigan,State,203.2,Male,Asian,26,44.3371,-85.4387
+24210,MA,Massachusetts,State,221.4,Male,Hispanic,25,42.2573,-71.8024
+24317,ID,Idaho,State,140.3,Female,Hispanic,16,44.3858,-114.661
+24395,KS,Kansas,State,329.1,Overall,More than one race,20,38.4828,-98.384
+24408,ME,Maine,State,347.4,Male,American Indian or Alaska Native,23,45.3889,-69.2349
+24463,MI,Michigan,State,157.4,Female,More than one race,26,44.3371,-85.4387
+24490,LA,Louisiana,State,324.3,Female,White,22,31.0964,-92.0302
+24508,KS,Kansas,State,164.7,Female,Hispanic,20,38.4828,-98.384
+24518,MD,Maryland,State,115.2,Overall,American Indian or Alaska Native,24,39.0648,-76.82
+24576,LA,Louisiana,State,650.6,Male,Black,22,31.0964,-92.0302
+24586,KY,Kentucky,State,117.1,Female,Asian,21,37.5266,-85.29
+24797,LA,Louisiana,State,,Female,Native Hawaiian or Other Pacific Islander,22,31.0964,-92.0302
+24881,KS,Kansas,State,418.6,Male,Overall,20,38.4828,-98.384
+24910,IN,Indiana,State,459.7,Male,White,18,39.9128,-86.2757
+25062,ME,Maine,State,382.8,Male,White,23,45.3889,-69.2349
+25107,ID,Idaho,State,114.3,Overall,Asian,16,44.3858,-114.661
+25110,KS,Kansas,State,263.8,Female,More than one race,20,38.4828,-98.384
+25122,IL,Illinois,State,325.2,Overall,Overall,17,40.0644,-89.2034
+25126,KS,Kansas,State,422.8,Male,White,20,38.4828,-98.384
+25161,KY,Kentucky,State,351.7,Female,Black,21,37.5266,-85.29
+25167,MD,Maryland,State,170.4,Male,Asian,24,39.0648,-76.82
+25233,MD,Maryland,State,404.6,Male,Overall,24,39.0648,-76.82
+25349,IN,Indiana,State,335.0,Female,Black,18,39.9128,-86.2757
+25373,IN,Indiana,State,437.6,Overall,Black,18,39.9128,-86.2757
+25376,KY,Kentucky,State,,Overall,Native Hawaiian or Other Pacific Islander,21,37.5266,-85.29
+25385,MI,Michigan,State,,Male,Native Hawaiian or Other Pacific Islander,26,44.3371,-85.4387
+25513,ID,Idaho,State,386.8,Male,White,16,44.3858,-114.661
+25568,MA,Massachusetts,State,,Female,American Indian or Alaska Native,25,42.2573,-71.8024
+25743,LA,Louisiana,State,427.8,Overall,Overall,22,31.0964,-92.0302
+25807,MI,Michigan,State,310.0,Female,Overall,26,44.3371,-85.4387
+25994,ME,Maine,State,151.5,Overall,Asian,23,45.3889,-69.2349
+26092,ID,Idaho,State,,Male,Native Hawaiian or Other Pacific Islander,16,44.3858,-114.661
+26099,MI,Michigan,State,261.2,Overall,Hispanic,26,44.3371,-85.4387
+26168,KS,Kansas,State,385.6,Female,Black,20,38.4828,-98.384
+26180,MD,Maryland,State,,Female,Native Hawaiian or Other Pacific Islander,24,39.0648,-76.82
+26204,IN,Indiana,State,72.8,Overall,American Indian or Alaska Native,18,39.9128,-86.2757
+26225,ME,Maine,State,294.1,Overall,Overall,23,45.3889,-69.2349
+26249,MD,Maryland,State,252.6,Female,White,24,39.0648,-76.82
+26451,IN,Indiana,State,278.8,Female,Overall,18,39.9128,-86.2757
+26534,IL,Illinois,State,113.9,Overall,American Indian or Alaska Native,17,40.0644,-89.2034
+26590,MA,Massachusetts,State,200.1,Female,White,25,42.2573,-71.8024
+26610,IN,Indiana,State,,Female,More than one race,18,39.9128,-86.2757
+26616,ID,Idaho,State,302.9,Overall,Overall,16,44.3858,-114.661
+26718,LA,Louisiana,State,167.7,Overall,Asian,22,31.0964,-92.0302
+26734,MA,Massachusetts,State,,Overall,Native Hawaiian or Other Pacific Islander,25,42.2573,-71.8024
+26748,MI,Michigan,State,247.0,Female,American Indian or Alaska Native,26,44.3371,-85.4387
+26851,LA,Louisiana,State,182.2,Overall,American Indian or Alaska Native,22,31.0964,-92.0302
+26924,KS,Kansas,State,,Male,Native Hawaiian or Other Pacific Islander,20,38.4828,-98.384
+26938,MI,Michigan,State,478.1,Male,White,26,44.3371,-85.4387
+26947,IL,Illinois,State,144.0,Overall,Asian,17,40.0644,-89.2034
+27068,MD,Maryland,State,179.1,Male,Hispanic,24,39.0648,-76.82
+27070,ME,Maine,State,,Male,Native Hawaiian or Other Pacific Islander,23,45.3889,-69.2349
+27129,MI,Michigan,State,365.6,Male,American Indian or Alaska Native,26,44.3371,-85.4387
+27145,MA,Massachusetts,State,327.3,Male,Overall,25,42.2573,-71.8024
+27171,ID,Idaho,State,246.2,Overall,American Indian or Alaska Native,16,44.3858,-114.661
+27252,IN,Indiana,State,360.8,Overall,White,18,39.9128,-86.2757
+27292,KY,Kentucky,State,138.2,Male,Hispanic,21,37.5266,-85.29
+27311,KY,Kentucky,State,314.1,Female,White,21,37.5266,-85.29
+27322,MA,Massachusetts,State,240.4,Overall,Black,25,42.2573,-71.8024
+27370,KS,Kansas,State,488.1,Overall,American Indian or Alaska Native,20,38.4828,-98.384
+27393,ID,Idaho,State,,Male,Black,16,44.3858,-114.661
+27500,MA,Massachusetts,State,122.1,Female,More than one race,25,42.2573,-71.8024
+27635,IL,Illinois,State,351.1,Female,Black,17,40.0644,-89.2034
+27711,LA,Louisiana,State,60.5,Overall,More than one race,22,31.0964,-92.0302
+27731,MD,Maryland,State,378.1,Overall,Black,24,39.0648,-76.82
+27835,KS,Kansas,State,151.5,Overall,Asian,20,38.4828,-98.384
+27867,LA,Louisiana,State,,Male,Native Hawaiian or Other Pacific Islander,22,31.0964,-92.0302
+27944,IL,Illinois,State,,Male,Native Hawaiian or Other Pacific Islander,17,40.0644,-89.2034
+28015,LA,Louisiana,State,386.5,Female,Black,22,31.0964,-92.0302
+28302,IL,Illinois,State,424.6,Male,White,17,40.0644,-89.2034
+28310,KS,Kansas,State,328.9,Overall,Overall,20,38.4828,-98.384
+28331,KY,Kentucky,State,505.9,Male,Overall,21,37.5266,-85.29
+28388,ME,Maine,State,,Male,Hispanic,23,45.3889,-69.2349
+28403,IN,Indiana,State,,Female,Native Hawaiian or Other Pacific Islander,18,39.9128,-86.2757
+28432,LA,Louisiana,State,531.3,Male,White,22,31.0964,-92.0302
+28544,KY,Kentucky,State,,Female,American Indian or Alaska Native,21,37.5266,-85.29
+28628,ID,Idaho,State,,Male,More than one race,16,44.3858,-114.661
+28660,IL,Illinois,State,73.4,Female,More than one race,17,40.0644,-89.2034
+28779,KS,Kansas,State,,Female,Native Hawaiian or Other Pacific Islander,20,38.4828,-98.384
+29150,MA,Massachusetts,State,125.8,Female,Hispanic,25,42.2573,-71.8024
+29151,IN,Indiana,State,154.6,Overall,Asian,18,39.9128,-86.2757
+29296,KY,Kentucky,State,,Male,Native Hawaiian or Other Pacific Islander,21,37.5266,-85.29
+29411,ME,Maine,State,,Female,American Indian or Alaska Native,23,45.3889,-69.2349
+29539,IL,Illinois,State,417.8,Male,Overall,17,40.0644,-89.2034
+29577,MI,Michigan,State,392.9,Overall,Overall,26,44.3371,-85.4387
+29634,IN,Indiana,State,190.0,Overall,Hispanic,18,39.9128,-86.2757
+29652,MD,Maryland,State,100.6,Female,Asian,24,39.0648,-76.82
+29722,MD,Maryland,State,43.6,Female,More than one race,24,39.0648,-76.82
+29744,IL,Illinois,State,463.4,Overall,Black,17,40.0644,-89.2034
+29748,IL,Illinois,State,185.6,Male,Asian,17,40.0644,-89.2034
+29913,MI,Michigan,State,,Overall,Native Hawaiian or Other Pacific Islander,26,44.3371,-85.4387
+29947,MA,Massachusetts,State,194.8,Female,Black,25,42.2573,-71.8024
+29988,IL,Illinois,State,134.8,Female,Hispanic,17,40.0644,-89.2034
+30137,KY,Kentucky,State,309.5,Female,Overall,21,37.5266,-85.29
+30291,LA,Louisiana,State,235.2,Male,American Indian or Alaska Native,22,31.0964,-92.0302
+30335,ME,Maine,State,298.6,Overall,White,23,45.3889,-69.2349
+30372,KS,Kansas,State,,Overall,Native Hawaiian or Other Pacific Islander,20,38.4828,-98.384
+30468,ME,Maine,State,,Overall,Native Hawaiian or Other Pacific Islander,23,45.3889,-69.2349
+30524,ID,Idaho,State,314.6,Overall,White,16,44.3858,-114.661
+30588,ID,Idaho,State,234.4,Female,American Indian or Alaska Native,16,44.3858,-114.661
+30609,MD,Maryland,State,49.8,Overall,More than one race,24,39.0648,-76.82
+30622,KS,Kansas,State,330.3,Overall,White,20,38.4828,-98.384
+30655,LA,Louisiana,State,136.7,Female,American Indian or Alaska Native,22,31.0964,-92.0302
+30661,IN,Indiana,State,,Male,American Indian or Alaska Native,18,39.9128,-86.2757
+30685,KY,Kentucky,State,578.9,Male,Black,21,37.5266,-85.29
+30932,IN,Indiana,State,,Overall,Native Hawaiian or Other Pacific Islander,18,39.9128,-86.2757
+30959,MA,Massachusetts,State,344.3,Male,White,25,42.2573,-71.8024
+31131,KS,Kansas,State,206.6,Overall,Hispanic,20,38.4828,-98.384
+31183,MA,Massachusetts,State,142.9,Overall,More than one race,25,42.2573,-71.8024
+31292,KS,Kansas,State,442.2,Female,American Indian or Alaska Native,20,38.4828,-98.384
+31336,LA,Louisiana,State,174.0,Overall,Hispanic,22,31.0964,-92.0302
+31428,ID,Idaho,State,,Female,More than one race,16,44.3858,-114.661
+31479,ME,Maine,State,226.3,Overall,Black,23,45.3889,-69.2349
+31539,LA,Louisiana,State,,Overall,Native Hawaiian or Other Pacific Islander,22,31.0964,-92.0302
+31569,ID,Idaho,State,,Overall,Native Hawaiian or Other Pacific Islander,16,44.3858,-114.661
+31858,IN,Indiana,State,454.8,Male,Overall,18,39.9128,-86.2757
+31930,MD,Maryland,State,140.0,Overall,Hispanic,24,39.0648,-76.82
+31941,IN,Indiana,State,,Female,American Indian or Alaska Native,18,39.9128,-86.2757
+32013,MA,Massachusetts,State,250.8,Overall,Overall,25,42.2573,-71.8024
+32044,MI,Michigan,State,329.1,Male,Hispanic,26,44.3371,-85.4387
+32049,ID,Idaho,State,252.7,Male,American Indian or Alaska Native,16,44.3858,-114.661
+32078,MA,Massachusetts,State,101.3,Female,Asian,25,42.2573,-71.8024
+32127,LA,Louisiana,State,108.9,Male,More than one race,22,31.0964,-92.0302
+32168,MA,Massachusetts,State,301.6,Male,Black,25,42.2573,-71.8024
+32203,IN,Indiana,State,,Male,Native Hawaiian or Other Pacific Islander,18,39.9128,-86.2757
+32219,KS,Kansas,State,549.4,Male,American Indian or Alaska Native,20,38.4828,-98.384
+32234,LA,Louisiana,State,417.9,Overall,White,22,31.0964,-92.0302
+32250,ID,Idaho,State,,Female,Black,16,44.3858,-114.661
+32327,KY,Kentucky,State,163.3,Overall,Asian,21,37.5266,-85.29
+32343,MI,Michigan,State,494.3,Male,Overall,26,44.3371,-85.4387
+32656,IL,Illinois,State,253.1,Female,White,17,40.0644,-89.2034
+32681,KY,Kentucky,State,,Male,American Indian or Alaska Native,21,37.5266,-85.29
+32852,IL,Illinois,State,,Female,Native Hawaiian or Other Pacific Islander,17,40.0644,-89.2034
+32940,IL,Illinois,State,130.7,Male,More than one race,17,40.0644,-89.2034
+33035,MA,Massachusetts,State,116.8,Overall,American Indian or Alaska Native,25,42.2573,-71.8024
+33051,IL,Illinois,State,621.2,Male,Black,17,40.0644,-89.2034
+33069,MI,Michigan,State,556.6,Overall,Black,26,44.3371,-85.4387
+33243,ME,Maine,State,,Female,Hispanic,23,45.3889,-69.2349
+33308,MD,Maryland,State,249.5,Female,Overall,24,39.0648,-76.82
+33330,NJ,New Jersey,State,,Male,Native Hawaiian or Other Pacific Islander,34,40.1987,-74.6768
+33339,MS,Mississippi,State,237.3,Overall,Asian,28,32.7577,-89.6646
+33431,NE,Nebraska,State,296.5,Overall,White,31,41.5228,-99.8085
+33433,NE,Nebraska,State,,Female,More than one race,31,41.5228,-99.8085
+33653,NJ,New Jersey,State,246.8,Female,Overall,34,40.1987,-74.6768
+33664,NH,New Hampshire,State,260.4,Male,Black,33,43.6834,-71.5794
+33732,NH,New Hampshire,State,216.2,Female,Overall,33,43.6834,-71.5794
+33785,ND,North Dakota,State,,Overall,Native Hawaiian or Other Pacific Islander,38,47.4471,-100.47
+33873,MN,Minnesota,State,237.9,Overall,Black,27,46.3159,-94.3068
+33954,NV,Nevada,State,180.5,Female,Hispanic,32,39.352,-116.65
+33974,MT,Montana,State,405.5,Male,Overall,30,47.0332,-109.653
+34013,NM,New Mexico,State,384.4,Male,Overall,35,34.4228,-106.102
+34023,NM,New Mexico,State,329.6,Overall,White,35,34.4228,-106.102
+34029,MO,Missouri,State,634.0,Male,Black,29,38.3641,-92.4798
+34036,NC,North Carolina,State,308.6,Overall,White,37,35.5475,-79.4019
+34037,MP,Northern Mariana Islands,State,,Male,Hispanic,69,15.8818,145.601
+34062,NC,North Carolina,State,118.8,Female,Asian,37,35.5475,-79.4019
+34109,MN,Minnesota,State,67.4,Female,More than one race,27,46.3159,-94.3068
+34136,NE,Nebraska,State,,Female,Native Hawaiian or Other Pacific Islander,31,41.5228,-99.8085
+34212,NH,New Hampshire,State,,Overall,More than one race,33,43.6834,-71.5794
+34255,NV,Nevada,State,555.7,Overall,Black,32,39.352,-116.65
+34275,MT,Montana,State,,Male,Native Hawaiian or Other Pacific Islander,30,47.0332,-109.653
+34277,ND,North Dakota,State,278.0,Overall,White,38,47.4471,-100.47
+34363,NM,New Mexico,State,,Overall,Native Hawaiian or Other Pacific Islander,35,34.4228,-106.102
+34391,NE,Nebraska,State,471.3,Male,American Indian or Alaska Native,31,41.5228,-99.8085
+34416,MS,Mississippi,State,,Male,Native Hawaiian or Other Pacific Islander,28,32.7577,-89.6646
+34737,MP,Northern Mariana Islands,State,,Female,More than one race,69,15.8818,145.601
+34832,NE,Nebraska,State,302.2,Overall,Black,31,41.5228,-99.8085
+34844,NE,Nebraska,State,269.7,Female,Black,31,41.5228,-99.8085
+34921,MT,Montana,State,238.1,Female,White,30,47.0332,-109.653
+34986,MO,Missouri,State,130.2,Female,Hispanic,29,38.3641,-92.4798
+35033,NV,Nevada,State,175.8,Female,More than one race,32,39.352,-116.65
+35098,MN,Minnesota,State,179.8,Female,Overall,27,46.3159,-94.3068
+35104,MO,Missouri,State,110.6,Male,More than one race,29,38.3641,-92.4798
+35105,NM,New Mexico,State,142.7,Male,More than one race,35,34.4228,-106.102
+35215,MP,Northern Mariana Islands,State,,Overall,Black,69,15.8818,145.601
+35288,NM,New Mexico,State,493.7,Male,Black,35,34.4228,-106.102
+35302,MT,Montana,State,,Overall,Asian,30,47.0332,-109.653
+35342,MS,Mississippi,State,364.4,Female,Overall,28,32.7577,-89.6646
+35371,MP,Northern Mariana Islands,State,,Female,Asian,69,15.8818,145.601
+35404,ND,North Dakota,State,,Female,Native Hawaiian or Other Pacific Islander,38,47.4471,-100.47
+35531,NC,North Carolina,State,162.6,Male,Hispanic,37,35.5475,-79.4019
+35636,MP,Northern Mariana Islands,State,,Overall,Native Hawaiian or Other Pacific Islander,69,15.8818,145.601
+35650,NE,Nebraska,State,371.8,Overall,American Indian or Alaska Native,31,41.5228,-99.8085
+35709,MO,Missouri,State,82.7,Overall,More than one race,29,38.3641,-92.4798
+35819,MP,Northern Mariana Islands,State,290.5,Overall,Overall,69,15.8818,145.601
+35887,NV,Nevada,State,433.7,Overall,White,32,39.352,-116.65
+35986,NM,New Mexico,State,209.9,Female,Hispanic,35,34.4228,-106.102
+36006,MS,Mississippi,State,180.3,Male,Hispanic,28,32.7577,-89.6646
+36034,MS,Mississippi,State,677.8,Male,Black,28,32.7577,-89.6646
+36046,NJ,New Jersey,State,156.7,Female,Hispanic,34,40.1987,-74.6768
+36051,ND,North Dakota,State,,Female,Black,38,47.4471,-100.47
+36267,MT,Montana,State,,Female,Native Hawaiian or Other Pacific Islander,30,47.0332,-109.653
+36281,NV,Nevada,State,240.2,Female,American Indian or Alaska Native,32,39.352,-116.65
+36314,NV,Nevada,State,363.9,Female,Native Hawaiian or Other Pacific Islander,32,39.352,-116.65
+36334,NM,New Mexico,State,411.2,Male,White,35,34.4228,-106.102
+36445,NC,North Carolina,State,366.8,Overall,Black,37,35.5475,-79.4019
+36537,NH,New Hampshire,State,,Male,More than one race,33,43.6834,-71.5794
+36545,MT,Montana,State,529.0,Overall,American Indian or Alaska Native,30,47.0332,-109.653
+36731,MS,Mississippi,State,168.6,Overall,Hispanic,28,32.7577,-89.6646
+36738,NH,New Hampshire,State,,Female,Hispanic,33,43.6834,-71.5794
+36870,MO,Missouri,State,210.3,Male,Asian,29,38.3641,-92.4798
+36908,MN,Minnesota,State,139.0,Male,Hispanic,27,46.3159,-94.3068
+36979,NV,Nevada,State,694.2,Male,Black,32,39.352,-116.65
+37054,NJ,New Jersey,State,511.0,Male,Black,34,40.1987,-74.6768
+37105,MP,Northern Mariana Islands,State,,Female,White,69,15.8818,145.601
+37142,NJ,New Jersey,State,260.6,Female,White,34,40.1987,-74.6768
+37197,NH,New Hampshire,State,,Female,Asian,33,43.6834,-71.5794
+37207,ND,North Dakota,State,651.0,Overall,American Indian or Alaska Native,38,47.4471,-100.47
+37210,MO,Missouri,State,482.8,Male,Overall,29,38.3641,-92.4798
+37227,MN,Minnesota,State,117.8,Female,Asian,27,46.3159,-94.3068
+37351,NM,New Mexico,State,150.4,Female,American Indian or Alaska Native,35,34.4228,-106.102
+37361,NC,North Carolina,State,241.2,Female,Overall,37,35.5475,-79.4019
+37383,NV,Nevada,State,562.1,Overall,Native Hawaiian or Other Pacific Islander,32,39.352,-116.65
+37401,MT,Montana,State,,Male,Black,30,47.0332,-109.653
+37432,MT,Montana,State,,Male,Asian,30,47.0332,-109.653
+37618,NH,New Hampshire,State,222.1,Female,White,33,43.6834,-71.5794
+37658,NE,Nebraska,State,142.2,Overall,Hispanic,31,41.5228,-99.8085
+37727,NV,Nevada,State,393.1,Overall,Overall,32,39.352,-116.65
+37729,NE,Nebraska,State,230.0,Female,Overall,31,41.5228,-99.8085
+37781,NC,North Carolina,State,398.5,Male,Overall,37,35.5475,-79.4019
+37788,MP,Northern Mariana Islands,State,,Female,Hispanic,69,15.8818,145.601
+37826,NH,New Hampshire,State,,Female,More than one race,33,43.6834,-71.5794
+37848,MO,Missouri,State,129.1,Overall,American Indian or Alaska Native,29,38.3641,-92.4798
+38037,NH,New Hampshire,State,,Female,Native Hawaiian or Other Pacific Islander,33,43.6834,-71.5794
+38108,NM,New Mexico,State,,Male,Native Hawaiian or Other Pacific Islander,35,34.4228,-106.102
+38212,NJ,New Jersey,State,,Overall,Native Hawaiian or Other Pacific Islander,34,40.1987,-74.6768
+38221,MS,Mississippi,State,,Female,Native Hawaiian or Other Pacific Islander,28,32.7577,-89.6646
+38340,MP,Northern Mariana Islands,State,,Male,American Indian or Alaska Native,69,15.8818,145.601
+38419,MO,Missouri,State,57.7,Female,More than one race,29,38.3641,-92.4798
+38463,NE,Nebraska,State,,Male,Native Hawaiian or Other Pacific Islander,31,41.5228,-99.8085
+38564,MP,Northern Mariana Islands,State,,Male,Black,69,15.8818,145.601
+38591,MT,Montana,State,183.0,Male,More than one race,30,47.0332,-109.653
+38860,MO,Missouri,State,385.8,Female,Black,29,38.3641,-92.4798
+38890,NH,New Hampshire,State,,Female,Black,33,43.6834,-71.5794
+38933,NE,Nebraska,State,292.4,Female,American Indian or Alaska Native,31,41.5228,-99.8085
+38959,MN,Minnesota,State,232.5,Overall,White,27,46.3159,-94.3068
+38987,ND,North Dakota,State,452.7,Female,American Indian or Alaska Native,38,47.4471,-100.47
+39070,NJ,New Jersey,State,144.2,Overall,Asian,34,40.1987,-74.6768
+39110,NJ,New Jersey,State,314.5,Female,Black,34,40.1987,-74.6768
+39146,ND,North Dakota,State,360.8,Male,White,38,47.4471,-100.47
+39174,NM,New Mexico,State,416.4,Overall,Black,35,34.4228,-106.102
+39255,MT,Montana,State,231.2,Male,Hispanic,30,47.0332,-109.653
+39277,NV,Nevada,State,229.8,Overall,Asian,32,39.352,-116.65
+39278,MS,Mississippi,State,451.9,Overall,White,28,32.7577,-89.6646
+39282,NC,North Carolina,State,53.8,Overall,More than one race,37,35.5475,-79.4019
+39300,MN,Minnesota,State,116.3,Overall,Hispanic,27,46.3159,-94.3068
+39393,NV,Nevada,State,282.7,Male,Hispanic,32,39.352,-116.65
+39416,MS,Mississippi,State,333.3,Male,Asian,28,32.7577,-89.6646
+39445,NV,Nevada,State,281.6,Male,More than one race,32,39.352,-116.65
+39493,NC,North Carolina,State,194.2,Male,Asian,37,35.5475,-79.4019
+39534,MN,Minnesota,State,,Overall,Native Hawaiian or Other Pacific Islander,27,46.3159,-94.3068
+39599,MO,Missouri,State,,Female,Native Hawaiian or Other Pacific Islander,29,38.3641,-92.4798
+39661,MS,Mississippi,State,,Female,More than one race,28,32.7577,-89.6646
+39746,NM,New Mexico,State,256.5,Female,White,35,34.4228,-106.102
+39774,NE,Nebraska,State,125.5,Overall,Asian,31,41.5228,-99.8085
+39859,NC,North Carolina,State,66.0,Male,More than one race,37,35.5475,-79.4019
+40143,NH,New Hampshire,State,,Overall,American Indian or Alaska Native,33,43.6834,-71.5794
+40154,MN,Minnesota,State,240.4,Female,American Indian or Alaska Native,27,46.3159,-94.3068
+40284,MO,Missouri,State,176.2,Overall,Asian,29,38.3641,-92.4798
+40296,MT,Montana,State,469.2,Overall,Black,30,47.0332,-109.653
+40304,ND,North Dakota,State,259.8,Overall,More than one race,38,47.4471,-100.47
+40305,NV,Nevada,State,223.2,Overall,More than one race,32,39.352,-116.65
+40344,MN,Minnesota,State,469.8,Male,American Indian or Alaska Native,27,46.3159,-94.3068
+40351,MP,Northern Mariana Islands,State,,Male,Asian,69,15.8818,145.601
+40465,MO,Missouri,State,287.8,Female,White,29,38.3641,-92.4798
+40472,NJ,New Jersey,State,144.0,Overall,American Indian or Alaska Native,34,40.1987,-74.6768
+40485,NM,New Mexico,State,344.7,Male,Hispanic,35,34.4228,-106.102
+40509,NC,North Carolina,State,103.3,Female,Hispanic,37,35.5475,-79.4019
+40514,NC,North Carolina,State,,Female,Native Hawaiian or Other Pacific Islander,37,35.5475,-79.4019
+40516,MS,Mississippi,State,518.5,Overall,Black,28,32.7577,-89.6646
+40596,MT,Montana,State,166.7,Female,Hispanic,30,47.0332,-109.653
+40604,ND,North Dakota,State,,Female,Hispanic,38,47.4471,-100.47
+40634,NJ,New Jersey,State,394.9,Male,Overall,34,40.1987,-74.6768
+40653,MO,Missouri,State,377.7,Overall,Overall,29,38.3641,-92.4798
+40662,MP,Northern Mariana Islands,State,,Overall,More than one race,69,15.8818,145.601
+41124,MP,Northern Mariana Islands,State,,Male,White,69,15.8818,145.601
+41134,NH,New Hampshire,State,,Male,Asian,33,43.6834,-71.5794
+41259,NM,New Mexico,State,163.9,Overall,Asian,35,34.4228,-106.102
+41286,MS,Mississippi,State,414.5,Male,American Indian or Alaska Native,28,32.7577,-89.6646
+41433,NC,North Carolina,State,483.5,Male,Black,37,35.5475,-79.4019
+41434,NJ,New Jersey,State,181.7,Male,Asian,34,40.1987,-74.6768
+41497,MT,Montana,State,241.9,Female,Overall,30,47.0332,-109.653
+41589,ND,North Dakota,State,,Male,Black,38,47.4471,-100.47
+41637,NV,Nevada,State,496.6,Male,Overall,32,39.352,-116.65
+41654,MN,Minnesota,State,297.8,Male,White,27,46.3159,-94.3068
+41705,MO,Missouri,State,142.7,Male,American Indian or Alaska Native,29,38.3641,-92.4798
+41721,NM,New Mexico,State,364.6,Male,American Indian or Alaska Native,35,34.4228,-106.102
+41746,ND,North Dakota,State,,Female,More than one race,38,47.4471,-100.47
+41768,MP,Northern Mariana Islands,State,,Female,Black,69,15.8818,145.601
+41793,NC,North Carolina,State,152.6,Overall,Asian,37,35.5475,-79.4019
+41863,NE,Nebraska,State,,Overall,Native Hawaiian or Other Pacific Islander,31,41.5228,-99.8085
+41865,MO,Missouri,State,375.7,Overall,White,29,38.3641,-92.4798
+42000,MT,Montana,State,,Female,Asian,30,47.0332,-109.653
+42060,NV,Nevada,State,312.1,Male,Asian,32,39.352,-116.65
+42128,NJ,New Jersey,State,93.2,Overall,More than one race,34,40.1987,-74.6768
+42165,MO,Missouri,State,250.4,Overall,Native Hawaiian or Other Pacific Islander,29,38.3641,-92.4798
+42166,ND,North Dakota,State,288.3,Overall,Overall,38,47.4471,-100.47
+42171,NC,North Carolina,State,310.8,Overall,Overall,37,35.5475,-79.4019
+42197,NJ,New Jersey,State,123.6,Male,More than one race,34,40.1987,-74.6768
+42430,NJ,New Jersey,State,423.9,Male,White,34,40.1987,-74.6768
+42539,NH,New Hampshire,State,384.5,Male,White,33,43.6834,-71.5794
+42621,MN,Minnesota,State,201.6,Female,Black,27,46.3159,-94.3068
+42625,NH,New Hampshire,State,,Female,American Indian or Alaska Native,33,43.6834,-71.5794
+42676,NM,New Mexico,State,272.1,Overall,Hispanic,35,34.4228,-106.102
+42732,NV,Nevada,State,450.5,Male,American Indian or Alaska Native,32,39.352,-116.65
+42775,MP,Northern Mariana Islands,State,,Overall,American Indian or Alaska Native,69,15.8818,145.601
+42776,NC,North Carolina,State,238.4,Female,White,37,35.5475,-79.4019
+42804,MO,Missouri,State,174.3,Overall,Hispanic,29,38.3641,-92.4798
+42910,ND,North Dakota,State,,Overall,Asian,38,47.4471,-100.47
+42920,MN,Minnesota,State,,Male,Native Hawaiian or Other Pacific Islander,27,46.3159,-94.3068
+42974,NJ,New Jersey,State,,Female,American Indian or Alaska Native,34,40.1987,-74.6768
+43018,NH,New Hampshire,State,,Male,Native Hawaiian or Other Pacific Islander,33,43.6834,-71.5794
+43023,NE,Nebraska,State,233.7,Female,White,31,41.5228,-99.8085
+43037,ND,North Dakota,State,206.2,Female,White,38,47.4471,-100.47
+43067,NM,New Mexico,State,,Female,Native Hawaiian or Other Pacific Islander,35,34.4228,-106.102
+43094,MS,Mississippi,State,467.8,Overall,Overall,28,32.7577,-89.6646
+43237,MS,Mississippi,State,,Overall,More than one race,28,32.7577,-89.6646
+43354,NH,New Hampshire,State,109.0,Overall,Hispanic,33,43.6834,-71.5794
+43566,NJ,New Jersey,State,198.0,Overall,Hispanic,34,40.1987,-74.6768
+43575,MT,Montana,State,158.5,Female,More than one race,30,47.0332,-109.653
+43735,MN,Minnesota,State,340.8,Overall,American Indian or Alaska Native,27,46.3159,-94.3068
+43757,NC,North Carolina,State,42.5,Female,More than one race,37,35.5475,-79.4019
+43787,NV,Nevada,State,228.8,Overall,Hispanic,32,39.352,-116.65
+43815,NJ,New Jersey,State,206.7,Male,American Indian or Alaska Native,34,40.1987,-74.6768
+43833,MO,Missouri,State,481.7,Male,White,29,38.3641,-92.4798
+43868,NM,New Mexico,State,113.4,Overall,More than one race,35,34.4228,-106.102
+43958,MP,Northern Mariana Islands,State,,Overall,White,69,15.8818,145.601
+43973,ND,North Dakota,State,,Male,Hispanic,38,47.4471,-100.47
+43995,MN,Minnesota,State,135.7,Overall,Asian,27,46.3159,-94.3068
+44084,MS,Mississippi,State,,Male,More than one race,28,32.7577,-89.6646
+44088,NH,New Hampshire,State,74.8,Overall,Asian,33,43.6834,-71.5794
+44122,NM,New Mexico,State,261.5,Male,Asian,35,34.4228,-106.102
+44253,MT,Montana,State,197.5,Overall,Hispanic,30,47.0332,-109.653
+44270,MS,Mississippi,State,167.6,Female,Asian,28,32.7577,-89.6646
+44315,NC,North Carolina,State,284.7,Female,Black,37,35.5475,-79.4019
+44561,NH,New Hampshire,State,,Male,American Indian or Alaska Native,33,43.6834,-71.5794
+44707,MS,Mississippi,State,315.9,Overall,American Indian or Alaska Native,28,32.7577,-89.6646
+44895,MT,Montana,State,315.8,Overall,White,30,47.0332,-109.653
+44942,NC,North Carolina,State,,Male,Native Hawaiian or Other Pacific Islander,37,35.5475,-79.4019
+45010,ND,North Dakota,State,,Overall,Black,38,47.4471,-100.47
+45043,MN,Minnesota,State,231.4,Overall,Overall,27,46.3159,-94.3068
+45272,MN,Minnesota,State,164.0,Male,More than one race,27,46.3159,-94.3068
+45342,NJ,New Jersey,State,112.0,Female,Asian,34,40.1987,-74.6768
+45349,ND,North Dakota,State,,Male,Asian,38,47.4471,-100.47
+45389,NE,Nebraska,State,361.4,Male,Overall,31,41.5228,-99.8085
+45399,MP,Northern Mariana Islands,State,,Overall,Asian,69,15.8818,145.601
+45435,NC,North Carolina,State,331.4,Overall,American Indian or Alaska Native,37,35.5475,-79.4019
+45535,NJ,New Jersey,State,311.7,Overall,Overall,34,40.1987,-74.6768
+45565,NE,Nebraska,State,176.9,Male,Hispanic,31,41.5228,-99.8085
+45568,MP,Northern Mariana Islands,State,,Female,Native Hawaiian or Other Pacific Islander,69,15.8818,145.601
+45601,MO,Missouri,State,,Male,Native Hawaiian or Other Pacific Islander,29,38.3641,-92.4798
+45698,NH,New Hampshire,State,286.9,Overall,Overall,33,43.6834,-71.5794
+45755,MO,Missouri,State,116.1,Female,American Indian or Alaska Native,29,38.3641,-92.4798
+45764,NV,Nevada,State,328.8,Female,White,32,39.352,-116.65
+45916,NH,New Hampshire,State,,Overall,Native Hawaiian or Other Pacific Islander,33,43.6834,-71.5794
+45931,ND,North Dakota,State,213.2,Female,Overall,38,47.4471,-100.47
+45972,NM,New Mexico,State,322.3,Female,Black,35,34.4228,-106.102
+46040,NV,Nevada,State,172.6,Female,Asian,32,39.352,-116.65
+46061,NJ,New Jersey,State,,Female,Native Hawaiian or Other Pacific Islander,34,40.1987,-74.6768
+46065,MT,Montana,State,319.7,Overall,Overall,30,47.0332,-109.653
+46066,MS,Mississippi,State,227.4,Female,American Indian or Alaska Native,28,32.7577,-89.6646
+46101,MN,Minnesota,State,274.1,Male,Black,27,46.3159,-94.3068
+46142,ND,North Dakota,State,374.2,Male,Overall,38,47.4471,-100.47
+46220,NM,New Mexico,State,302.2,Overall,Overall,35,34.4228,-106.102
+46233,NM,New Mexico,State,231.0,Female,Overall,35,34.4228,-106.102
+46299,NC,North Carolina,State,254.3,Female,American Indian or Alaska Native,37,35.5475,-79.4019
+46326,MN,Minnesota,State,,Female,Native Hawaiian or Other Pacific Islander,27,46.3159,-94.3068
+46357,NE,Nebraska,State,,Overall,More than one race,31,41.5228,-99.8085
+46381,NE,Nebraska,State,322.0,Male,Black,31,41.5228,-99.8085
+46419,NJ,New Jersey,State,332.4,Overall,White,34,40.1987,-74.6768
+46466,MO,Missouri,State,291.3,Female,Overall,29,38.3641,-92.4798
+46502,NH,New Hampshire,State,295.4,Overall,White,33,43.6834,-71.5794
+46541,MT,Montana,State,410.7,Female,American Indian or Alaska Native,30,47.0332,-109.653
+46634,MN,Minnesota,State,180.3,Female,White,27,46.3159,-94.3068
+46684,MP,Northern Mariana Islands,State,399.7,Male,Overall,69,15.8818,145.601
+46750,ND,North Dakota,State,,Male,More than one race,38,47.4471,-100.47
+46773,NH,New Hampshire,State,263.8,Overall,Black,33,43.6834,-71.5794
+47003,MP,Northern Mariana Islands,State,,Male,More than one race,69,15.8818,145.601
+47050,MS,Mississippi,State,350.7,Female,White,28,32.7577,-89.6646
+47096,NV,Nevada,State,336.1,Overall,American Indian or Alaska Native,32,39.352,-116.65
+47111,MT,Montana,State,401.2,Male,White,30,47.0332,-109.653
+47140,MS,Mississippi,State,,Overall,Native Hawaiian or Other Pacific Islander,28,32.7577,-89.6646
+47203,NC,North Carolina,State,394.7,Male,White,37,35.5475,-79.4019
+47301,NM,New Mexico,State,,Female,More than one race,35,34.4228,-106.102
+47304,TN,Tennessee,State,353.9,Female,Black,47,35.8465,-86.3351
+47372,SD,South Dakota,State,106.9,Overall,Hispanic,46,44.4332,-100.236
+47667,NE,Nebraska,State,372.3,Male,White,31,41.5228,-99.8085
+47686,NJ,New Jersey,State,72.4,Female,More than one race,34,40.1987,-74.6768
+47760,MO,Missouri,State,491.9,Overall,Black,29,38.3641,-92.4798
+47914,NH,New Hampshire,State,137.0,Male,Hispanic,33,43.6834,-71.5794
+48012,MS,Mississippi,State,596.8,Male,Overall,28,32.7577,-89.6646
+48068,MT,Montana,State,,Female,Black,30,47.0332,-109.653
+48181,NV,Nevada,State,439.4,Female,Black,32,39.352,-116.65
+48226,NJ,New Jersey,State,248.5,Male,Hispanic,34,40.1987,-74.6768
+48257,ND,North Dakota,State,148.2,Overall,Hispanic,38,47.4471,-100.47
+48284,NC,North Carolina,State,132.2,Overall,Hispanic,37,35.5475,-79.4019
+48337,MP,Northern Mariana Islands,State,,Male,Native Hawaiian or Other Pacific Islander,69,15.8818,145.601
+48450,MT,Montana,State,170.9,Overall,More than one race,30,47.0332,-109.653
+48596,NE,Nebraska,State,289.9,Overall,Overall,31,41.5228,-99.8085
+48686,MO,Missouri,State,223.2,Male,Hispanic,29,38.3641,-92.4798
+48795,MP,Northern Mariana Islands,State,204.2,Female,Overall,69,15.8818,145.601
+48870,NV,Nevada,State,793.1,Male,Native Hawaiian or Other Pacific Islander,32,39.352,-116.65
+48875,ND,North Dakota,State,898.4,Male,American Indian or Alaska Native,38,47.4471,-100.47
+48876,MN,Minnesota,State,156.9,Male,Asian,27,46.3159,-94.3068
+48914,MS,Mississippi,State,402.5,Female,Black,28,32.7577,-89.6646
+48948,NJ,New Jersey,State,395.2,Overall,Black,34,40.1987,-74.6768
+48990,MS,Mississippi,State,152.7,Female,Hispanic,28,32.7577,-89.6646
+49008,NM,New Mexico,State,101.6,Female,Asian,35,34.4228,-106.102
+49055,MO,Missouri,State,150.0,Female,Asian,29,38.3641,-92.4798
+49103,MN,Minnesota,State,109.4,Overall,More than one race,27,46.3159,-94.3068
+49106,MP,Northern Mariana Islands,State,,Female,American Indian or Alaska Native,69,15.8818,145.601
+49246,MN,Minnesota,State,92.2,Female,Hispanic,27,46.3159,-94.3068
+49249,NM,New Mexico,State,238.8,Overall,American Indian or Alaska Native,35,34.4228,-106.102
+49251,NE,Nebraska,State,,Male,More than one race,31,41.5228,-99.8085
+49267,NC,North Carolina,State,,Overall,Native Hawaiian or Other Pacific Islander,37,35.5475,-79.4019
+49285,MT,Montana,State,664.0,Male,American Indian or Alaska Native,30,47.0332,-109.653
+49294,MP,Northern Mariana Islands,State,,Overall,Hispanic,69,15.8818,145.601
+49319,NC,North Carolina,State,431.7,Male,American Indian or Alaska Native,37,35.5475,-79.4019
+49441,NE,Nebraska,State,107.2,Female,Hispanic,31,41.5228,-99.8085
+49519,MT,Montana,State,,Overall,Native Hawaiian or Other Pacific Islander,30,47.0332,-109.653
+49576,NE,Nebraska,State,126.0,Female,Asian,31,41.5228,-99.8085
+49649,ND,North Dakota,State,,Female,Asian,38,47.4471,-100.47
+49652,NV,Nevada,State,298.6,Female,Overall,32,39.352,-116.65
+49674,ND,North Dakota,State,,Male,Native Hawaiian or Other Pacific Islander,38,47.4471,-100.47
+49908,MN,Minnesota,State,295.5,Male,Overall,27,46.3159,-94.3068
+49937,PR,Puerto Rico,State,,Male,Asian,72,18.2214,-66.4654
+50075,NY,New York,State,264.2,Female,White,36,42.9465,-75.512
+50390,OR,Oregon,State,267.3,Overall,Overall,41,43.9313,-120.554
+50430,OH,Ohio,State,,Overall,Native Hawaiian or Other Pacific Islander,39,40.2882,-82.7866
+50541,NY,New York,State,,Male,Native Hawaiian or Other Pacific Islander,36,42.9465,-75.512
+50667,OR,Oregon,State,268.3,Female,Black,41,43.9313,-120.554
+50728,RI,Rhode Island,State,,Overall,Native Hawaiian or Other Pacific Islander,44,41.682,-71.5617
+50744,OH,Ohio,State,189.8,Male,Asian,39,40.2882,-82.7866
+50799,TN,Tennessee,State,412.9,Overall,White,47,35.8465,-86.3351
+50980,OK,Oklahoma,State,596.7,Male,Overall,40,35.5848,-97.5098
+51128,TN,Tennessee,State,,Overall,Native Hawaiian or Other Pacific Islander,47,35.8465,-86.3351
+51159,SD,South Dakota,State,,Female,Asian,46,44.4332,-100.236
+51190,OK,Oklahoma,State,592.8,Overall,Black,40,35.5848,-97.5098
+51220,RI,Rhode Island,State,319.5,Overall,White,44,41.682,-71.5617
+51239,SC,South Carolina,State,54.3,Overall,More than one race,45,33.9187,-80.9014
+51306,PA,Pennsylvania,State,256.0,Male,Hispanic,42,40.8749,-77.8022
+51367,OR,Oregon,State,281.2,Male,American Indian or Alaska Native,41,43.9313,-120.554
+51389,SC,South Carolina,State,151.7,Overall,Hispanic,45,33.9187,-80.9014
+51460,PA,Pennsylvania,State,188.5,Male,Asian,42,40.8749,-77.8022
+51652,PR,Puerto Rico,State,,Male,Native Hawaiian or Other Pacific Islander,72,18.2214,-66.4654
+51740,OK,Oklahoma,State,,Female,Native Hawaiian or Other Pacific Islander,40,35.5848,-97.5098
+51759,RI,Rhode Island,State,275.6,Male,Black,44,41.682,-71.5617
+51824,RI,Rhode Island,State,,Female,American Indian or Alaska Native,44,41.682,-71.5617
+52105,SD,South Dakota,State,174.1,Overall,More than one race,46,44.4332,-100.236
+52242,NY,New York,State,136.9,Female,American Indian or Alaska Native,36,42.9465,-75.512
+52327,PR,Puerto Rico,State,148.8,Female,Overall,72,18.2214,-66.4654
+52394,SC,South Carolina,State,166.0,Male,American Indian or Alaska Native,45,33.9187,-80.9014
+52427,SD,South Dakota,State,,Male,Asian,46,44.4332,-100.236
+52455,PA,Pennsylvania,State,,Male,Native Hawaiian or Other Pacific Islander,42,40.8749,-77.8022
+52508,TN,Tennessee,State,411.2,Overall,Overall,47,35.8465,-86.3351
+52539,OK,Oklahoma,State,212.8,Overall,Asian,40,35.5848,-97.5098
+52558,SC,South Carolina,State,323.0,Female,Black,45,33.9187,-80.9014
+52657,PA,Pennsylvania,State,267.2,Female,Overall,42,40.8749,-77.8022
+52779,PR,Puerto Rico,State,,Female,More than one race,72,18.2214,-66.4654
+52802,RI,Rhode Island,State,160.6,Male,Hispanic,44,41.682,-71.5617
+52919,SD,South Dakota,State,392.1,Male,White,46,44.4332,-100.236
+52942,TN,Tennessee,State,108.9,Female,Hispanic,47,35.8465,-86.3351
+53024,OH,Ohio,State,297.6,Female,White,39,40.2882,-82.7866
+53162,OR,Oregon,State,130.4,Overall,More than one race,41,43.9313,-120.554
+53252,OH,Ohio,State,483.7,Male,White,39,40.2882,-82.7866
+53290,SC,South Carolina,State,,Male,Native Hawaiian or Other Pacific Islander,45,33.9187,-80.9014
+53315,NY,New York,State,335.6,Male,Hispanic,36,42.9465,-75.512
+53370,PR,Puerto Rico,State,,Overall,Black,72,18.2214,-66.4654
+53392,OH,Ohio,State,57.4,Male,More than one race,39,40.2882,-82.7866
+53428,OK,Oklahoma,State,203.5,Female,Hispanic,40,35.5848,-97.5098
+53479,RI,Rhode Island,State,303.0,Overall,Overall,44,41.682,-71.5617
+53492,PR,Puerto Rico,State,,Overall,American Indian or Alaska Native,72,18.2214,-66.4654
+53562,TN,Tennessee,State,166.1,Overall,Asian,47,35.8465,-86.3351
+53584,PA,Pennsylvania,State,616.0,Male,Black,42,40.8749,-77.8022
+53586,TN,Tennessee,State,521.7,Male,White,47,35.8465,-86.3351
+53618,SC,South Carolina,State,419.1,Male,White,45,33.9187,-80.9014
+53739,SD,South Dakota,State,653.5,Male,American Indian or Alaska Native,46,44.4332,-100.236
+53751,OR,Oregon,State,358.9,Male,White,41,43.9313,-120.554
+53780,RI,Rhode Island,State,,Male,More than one race,44,41.682,-71.5617
+53832,SD,South Dakota,State,,Female,Black,46,44.4332,-100.236
+53835,OH,Ohio,State,236.1,Male,Hispanic,39,40.2882,-82.7866
+53868,NY,New York,State,,Female,Native Hawaiian or Other Pacific Islander,36,42.9465,-75.512
+53966,TN,Tennessee,State,62.1,Overall,More than one race,47,35.8465,-86.3351
+54059,PR,Puerto Rico,State,,Overall,White,72,18.2214,-66.4654
+54160,OR,Oregon,State,245.6,Female,Native Hawaiian or Other Pacific Islander,41,43.9313,-120.554
+54322,TN,Tennessee,State,322.2,Female,White,47,35.8465,-86.3351
+54376,SC,South Carolina,State,250.0,Female,White,45,33.9187,-80.9014
+54465,OH,Ohio,State,380.8,Overall,Overall,39,40.2882,-82.7866
+54485,NY,New York,State,454.8,Overall,Black,36,42.9465,-75.512
+54519,RI,Rhode Island,State,416.5,Male,White,44,41.682,-71.5617
+54534,OR,Oregon,State,397.5,Male,Black,41,43.9313,-120.554
+54551,SD,South Dakota,State,,Male,Hispanic,46,44.4332,-100.236
+54625,PA,Pennsylvania,State,154.0,Female,Hispanic,42,40.8749,-77.8022
+54700,OH,Ohio,State,119.9,Female,Asian,39,40.2882,-82.7866
+54734,OR,Oregon,State,169.8,Male,Hispanic,41,43.9313,-120.554
+55077,RI,Rhode Island,State,,Male,Native Hawaiian or Other Pacific Islander,44,41.682,-71.5617
+55097,PA,Pennsylvania,State,87.8,Male,More than one race,42,40.8749,-77.8022
+55153,RI,Rhode Island,State,193.6,Female,Black,44,41.682,-71.5617
+55156,PA,Pennsylvania,State,263.8,Female,White,42,40.8749,-77.8022
+55168,PR,Puerto Rico,State,,Female,Native Hawaiian or Other Pacific Islander,72,18.2214,-66.4654
+55213,NY,New York,State,418.0,Male,Overall,36,42.9465,-75.512
+55261,OR,Oregon,State,204.3,Female,Overall,41,43.9313,-120.554
+55358,PR,Puerto Rico,State,,Overall,Asian,72,18.2214,-66.4654
+55491,OK,Oklahoma,State,477.7,Overall,Overall,40,35.5848,-97.5098
+55543,SD,South Dakota,State,,Female,Native Hawaiian or Other Pacific Islander,46,44.4332,-100.236
+55634,OK,Oklahoma,State,,Male,Native Hawaiian or Other Pacific Islander,40,35.5848,-97.5098
+55639,OH,Ohio,State,159.5,Male,American Indian or Alaska Native,39,40.2882,-82.7866
+55652,SC,South Carolina,State,,Male,More than one race,45,33.9187,-80.9014
+55671,PR,Puerto Rico,State,,Male,Hispanic,72,18.2214,-66.4654
+55759,RI,Rhode Island,State,,Male,American Indian or Alaska Native,44,41.682,-71.5617
+55777,SC,South Carolina,State,148.2,Overall,American Indian or Alaska Native,45,33.9187,-80.9014
+55803,OR,Oregon,State,204.1,Female,American Indian or Alaska Native,41,43.9313,-120.554
+55851,OK,Oklahoma,State,600.8,Male,White,40,35.5848,-97.5098
+55866,SD,South Dakota,State,293.7,Overall,White,46,44.4332,-100.236
+55911,NY,New York,State,332.1,Overall,Overall,36,42.9465,-75.512
+56058,SD,South Dakota,State,300.7,Overall,Overall,46,44.4332,-100.236
+56079,PA,Pennsylvania,State,341.7,Overall,Overall,42,40.8749,-77.8022
+56122,OK,Oklahoma,State,383.8,Female,White,40,35.5848,-97.5098
+56181,NY,New York,State,241.4,Male,American Indian or Alaska Native,36,42.9465,-75.512
+56411,PA,Pennsylvania,State,,Overall,Native Hawaiian or Other Pacific Islander,42,40.8749,-77.8022
+56433,RI,Rhode Island,State,,Female,More than one race,44,41.682,-71.5617
+56496,OH,Ohio,State,373.6,Female,Black,39,40.2882,-82.7866
+56535,PA,Pennsylvania,State,470.6,Overall,Black,42,40.8749,-77.8022
+56622,PA,Pennsylvania,State,436.5,Male,Overall,42,40.8749,-77.8022
+56758,RI,Rhode Island,State,144.5,Overall,Hispanic,44,41.682,-71.5617
+56936,OH,Ohio,State,133.5,Female,Hispanic,39,40.2882,-82.7866
+57012,TN,Tennessee,State,,Female,American Indian or Alaska Native,47,35.8465,-86.3351
+57038,OK,Oklahoma,State,261.3,Male,Asian,40,35.5848,-97.5098
+57338,NY,New York,State,265.0,Overall,Hispanic,36,42.9465,-75.512
+57342,PR,Puerto Rico,State,,Male,Black,72,18.2214,-66.4654
+57440,TN,Tennessee,State,187.3,Male,Hispanic,47,35.8465,-86.3351
+57488,SD,South Dakota,State,382.4,Male,Black,46,44.4332,-100.236
+57558,PA,Pennsylvania,State,66.0,Female,More than one race,42,40.8749,-77.8022
+57633,SC,South Carolina,State,430.7,Male,Overall,45,33.9187,-80.9014
+57726,SD,South Dakota,State,336.8,Female,American Indian or Alaska Native,46,44.4332,-100.236
+57742,OR,Oregon,State,278.6,Overall,White,41,43.9313,-120.554
+57770,OH,Ohio,State,380.4,Overall,White,39,40.2882,-82.7866
+57816,PA,Pennsylvania,State,132.0,Male,American Indian or Alaska Native,42,40.8749,-77.8022
+57927,TN,Tennessee,State,67.8,Male,More than one race,47,35.8465,-86.3351
+57933,OK,Oklahoma,State,509.5,Overall,American Indian or Alaska Native,40,35.5848,-97.5098
+57941,OH,Ohio,State,48.8,Overall,More than one race,39,40.2882,-82.7866
+57970,PR,Puerto Rico,State,,Female,Hispanic,72,18.2214,-66.4654
+58278,TN,Tennessee,State,477.3,Overall,Black,47,35.8465,-86.3351
+58303,OR,Oregon,State,334.7,Overall,Black,41,43.9313,-120.554
+58317,SC,South Carolina,State,406.9,Overall,Black,45,33.9187,-80.9014
+58485,SD,South Dakota,State,,Female,Hispanic,46,44.4332,-100.236
+58537,OK,Oklahoma,State,484.0,Overall,Native Hawaiian or Other Pacific Islander,40,35.5848,-97.5098
+58550,RI,Rhode Island,State,,Female,Native Hawaiian or Other Pacific Islander,44,41.682,-71.5617
+58626,NY,New York,State,92.3,Male,More than one race,36,42.9465,-75.512
+58772,SC,South Carolina,State,118.1,Female,Hispanic,45,33.9187,-80.9014
+58797,PR,Puerto Rico,State,,Female,American Indian or Alaska Native,72,18.2214,-66.4654
+58833,OK,Oklahoma,State,291.8,Female,More than one race,40,35.5848,-97.5098
+58873,OR,Oregon,State,423.4,Male,Native Hawaiian or Other Pacific Islander,41,43.9313,-120.554
+58903,OK,Oklahoma,State,449.4,Female,Black,40,35.5848,-97.5098
+58949,RI,Rhode Island,State,391.7,Male,Overall,44,41.682,-71.5617
+58987,SD,South Dakota,State,,Female,More than one race,46,44.4332,-100.236
+59054,PA,Pennsylvania,State,107.4,Female,American Indian or Alaska Native,42,40.8749,-77.8022
+59080,PA,Pennsylvania,State,120.3,Overall,American Indian or Alaska Native,42,40.8749,-77.8022
+59083,SC,South Carolina,State,197.1,Male,Asian,45,33.9187,-80.9014
+59135,PR,Puerto Rico,State,,Male,White,72,18.2214,-66.4654
+59375,NY,New York,State,166.7,Female,Asian,36,42.9465,-75.512
+59580,OH,Ohio,State,103.4,Female,American Indian or Alaska Native,39,40.2882,-82.7866
+59602,TN,Tennessee,State,523.3,Male,Overall,47,35.8465,-86.3351
+59729,NY,New York,State,264.3,Female,Overall,36,42.9465,-75.512
+59810,SD,South Dakota,State,299.9,Overall,Black,46,44.4332,-100.236
+59813,OK,Oklahoma,State,483.5,Overall,White,40,35.5848,-97.5098
+59999,NY,New York,State,588.2,Male,Black,36,42.9465,-75.512
+60030,SD,South Dakota,State,,Male,Native Hawaiian or Other Pacific Islander,46,44.4332,-100.236
+60133,PA,Pennsylvania,State,76.9,Overall,More than one race,42,40.8749,-77.8022
+60155,PR,Puerto Rico,State,,Overall,Hispanic,72,18.2214,-66.4654
+60262,OH,Ohio,State,,Female,Native Hawaiian or Other Pacific Islander,39,40.2882,-82.7866
+60276,OR,Oregon,State,343.0,Male,Overall,41,43.9313,-120.554
+60282,OR,Oregon,State,126.9,Overall,Asian,41,43.9313,-120.554
+60309,NY,New York,State,183.6,Overall,American Indian or Alaska Native,36,42.9465,-75.512
+60411,TN,Tennessee,State,85.6,Male,American Indian or Alaska Native,47,35.8465,-86.3351
+60555,PA,Pennsylvania,State,434.0,Male,White,42,40.8749,-77.8022
+60673,PR,Puerto Rico,State,,Overall,More than one race,72,18.2214,-66.4654
+60685,OH,Ohio,State,129.9,Overall,American Indian or Alaska Native,39,40.2882,-82.7866
+60738,RI,Rhode Island,State,,Overall,American Indian or Alaska Native,44,41.682,-71.5617
+60836,TN,Tennessee,State,53.2,Female,More than one race,47,35.8465,-86.3351
+60877,SD,South Dakota,State,214.4,Female,Overall,46,44.4332,-100.236
+60984,OH,Ohio,State,587.7,Male,Black,39,40.2882,-82.7866
+61213,OH,Ohio,State,299.6,Female,Overall,39,40.2882,-82.7866
+61246,NY,New York,State,257.8,Male,Asian,36,42.9465,-75.512
+61331,OK,Oklahoma,State,251.2,Overall,Hispanic,40,35.5848,-97.5098
+61419,OR,Oregon,State,125.9,Female,Hispanic,41,43.9313,-120.554
+61439,PA,Pennsylvania,State,130.0,Female,Asian,42,40.8749,-77.8022
+61574,SC,South Carolina,State,261.5,Female,Overall,45,33.9187,-80.9014
+61662,PR,Puerto Rico,State,,Female,Asian,72,18.2214,-66.4654
+61868,TN,Tennessee,State,148.4,Overall,Hispanic,47,35.8465,-86.3351
+62117,OR,Oregon,State,109.0,Female,More than one race,41,43.9313,-120.554
+62150,RI,Rhode Island,State,248.1,Female,White,44,41.682,-71.5617
+62232,SC,South Carolina,State,99.7,Female,Asian,45,33.9187,-80.9014
+62246,SC,South Carolina,State,,Female,More than one race,45,33.9187,-80.9014
+62285,PR,Puerto Rico,State,,Female,Black,72,18.2214,-66.4654
+62324,OR,Oregon,State,148.1,Overall,Hispanic,41,43.9313,-120.554
+62395,OK,Oklahoma,State,679.8,Male,American Indian or Alaska Native,40,35.5848,-97.5098
+62400,SC,South Carolina,State,141.9,Overall,Asian,45,33.9187,-80.9014
+62463,RI,Rhode Island,State,176.8,Overall,Asian,44,41.682,-71.5617
+62475,OH,Ohio,State,151.2,Overall,Asian,39,40.2882,-82.7866
+62559,PA,Pennsylvania,State,200.3,Overall,Hispanic,42,40.8749,-77.8022
+62671,TN,Tennessee,State,,Female,Native Hawaiian or Other Pacific Islander,47,35.8465,-86.3351
+62719,OK,Oklahoma,State,376.9,Female,Overall,40,35.5848,-97.5098
+62964,OK,Oklahoma,State,767.5,Male,Black,40,35.5848,-97.5098
+63018,RI,Rhode Island,State,144.9,Female,Asian,44,41.682,-71.5617
+63190,NY,New York,State,334.9,Overall,White,36,42.9465,-75.512
+63333,OR,Oregon,State,211.7,Female,White,41,43.9313,-120.554
+63341,PR,Puerto Rico,State,,Male,American Indian or Alaska Native,72,18.2214,-66.4654
+63422,NY,New York,State,362.1,Female,Black,36,42.9465,-75.512
+63488,RI,Rhode Island,State,236.6,Female,Overall,44,41.682,-71.5617
+63524,SD,South Dakota,State,470.9,Overall,American Indian or Alaska Native,46,44.4332,-100.236
+63577,OK,Oklahoma,State,180.8,Female,Asian,40,35.5848,-97.5098
+63600,TN,Tennessee,State,319.2,Female,Overall,47,35.8465,-86.3351
+63676,SC,South Carolina,State,187.0,Male,Hispanic,45,33.9187,-80.9014
+63685,OH,Ohio,State,,Male,Native Hawaiian or Other Pacific Islander,39,40.2882,-82.7866
+63699,OR,Oregon,State,164.8,Male,Asian,41,43.9313,-120.554
+63742,PA,Pennsylvania,State,156.7,Overall,Asian,42,40.8749,-77.8022
+63792,OK,Oklahoma,State,494.8,Male,More than one race,40,35.5848,-97.5098
+63849,NY,New York,State,,Overall,Native Hawaiian or Other Pacific Islander,36,42.9465,-75.512
+63893,OR,Oregon,State,332.4,Overall,Native Hawaiian or Other Pacific Islander,41,43.9313,-120.554
+63906,TN,Tennessee,State,133.5,Female,Asian,47,35.8465,-86.3351
+64105,NY,New York,State,75.6,Female,More than one race,36,42.9465,-75.512
+64189,SC,South Carolina,State,337.3,Overall,Overall,45,33.9187,-80.9014
+64232,TN,Tennessee,State,85.8,Overall,American Indian or Alaska Native,47,35.8465,-86.3351
+64253,SD,South Dakota,State,208.2,Female,White,46,44.4332,-100.236
+64262,TN,Tennessee,State,649.7,Male,Black,47,35.8465,-86.3351
+64352,SC,South Carolina,State,521.9,Male,Black,45,33.9187,-80.9014
+64441,SD,South Dakota,State,,Overall,Native Hawaiian or Other Pacific Islander,46,44.4332,-100.236
+64452,PR,Puerto Rico,State,199.1,Overall,Overall,72,18.2214,-66.4654
+64538,OK,Oklahoma,State,380.4,Overall,More than one race,40,35.5848,-97.5098
+64555,SC,South Carolina,State,,Female,Native Hawaiian or Other Pacific Islander,45,33.9187,-80.9014
+64606,OR,Oregon,State,99.0,Female,Asian,41,43.9313,-120.554
+64636,OK,Oklahoma,State,300.0,Male,Hispanic,40,35.5848,-97.5098
+64667,SC,South Carolina,State,124.2,Female,American Indian or Alaska Native,45,33.9187,-80.9014
+64728,OR,Oregon,State,241.3,Overall,American Indian or Alaska Native,41,43.9313,-120.554
+64755,OH,Ohio,State,482.8,Male,Overall,39,40.2882,-82.7866
+64951,OR,Oregon,State,158.6,Male,More than one race,41,43.9313,-120.554
+65041,PR,Puerto Rico,State,,Male,More than one race,72,18.2214,-66.4654
+65064,NY,New York,State,211.7,Female,Hispanic,36,42.9465,-75.512
+65078,PA,Pennsylvania,State,339.0,Overall,White,42,40.8749,-77.8022
+65130,PR,Puerto Rico,State,262.3,Male,Overall,72,18.2214,-66.4654
+65208,SD,South Dakota,State,400.4,Male,Overall,46,44.4332,-100.236
+65213,SD,South Dakota,State,,Overall,Asian,46,44.4332,-100.236
+65227,PA,Pennsylvania,State,,Female,Native Hawaiian or Other Pacific Islander,42,40.8749,-77.8022
+65375,SC,South Carolina,State,327.0,Overall,White,45,33.9187,-80.9014
+65403,SD,South Dakota,State,,Male,More than one race,46,44.4332,-100.236
+65546,RI,Rhode Island,State,127.7,Female,Hispanic,44,41.682,-71.5617
+65564,OH,Ohio,State,181.7,Overall,Hispanic,39,40.2882,-82.7866
+65601,SC,South Carolina,State,,Overall,Native Hawaiian or Other Pacific Islander,45,33.9187,-80.9014
+65723,OK,Oklahoma,State,372.1,Female,American Indian or Alaska Native,40,35.5848,-97.5098
+65855,TN,Tennessee,State,211.4,Male,Asian,47,35.8465,-86.3351
+65926,RI,Rhode Island,State,210.7,Male,Asian,44,41.682,-71.5617
+66031,TN,Tennessee,State,,Male,Native Hawaiian or Other Pacific Islander,47,35.8465,-86.3351
+66082,TX,Texas,State,260.2,Female,Overall,48,31.4906,-99.3517
+66087,NY,New York,State,208.7,Overall,Asian,36,42.9465,-75.512
+66097,RI,Rhode Island,State,,Overall,More than one race,44,41.682,-71.5617
+66185,PR,Puerto Rico,State,,Female,White,72,18.2214,-66.4654
+66374,OH,Ohio,State,465.5,Overall,Black,39,40.2882,-82.7866
+66465,PA,Pennsylvania,State,368.0,Female,Black,42,40.8749,-77.8022
+66549,PR,Puerto Rico,State,,Overall,Native Hawaiian or Other Pacific Islander,72,18.2214,-66.4654
+66564,RI,Rhode Island,State,233.6,Overall,Black,44,41.682,-71.5617
+66585,NY,New York,State,422.0,Male,White,36,42.9465,-75.512
+66643,UT,Utah,State,127.3,Overall,Asian,49,39.3231,-111.676
+66707,WI,Wisconsin,State,175.3,Female,Asian,55,44.6333,-90.0068
+66843,WA,Washington,State,111.6,Female,Asian,53,47.378,-120.428
+66855,UT,Utah,State,269.6,Female,White,49,39.3231,-111.676
+66972,VT,Vermont,State,,Male,Native Hawaiian or Other Pacific Islander,50,44.0733,-72.661
+67074,VA,Virginia,State,128.6,Overall,Hispanic,51,37.5188,-78.8507
+67117,UT,Utah,State,300.1,Overall,Overall,49,39.3231,-111.676
+67145,WV,West Virginia,State,175.1,Female,Asian,54,38.6411,-80.6147
+67160,WY,Wyoming,State,311.6,Male,Hispanic,56,42.9984,-107.552
+67235,WI,Wisconsin,State,,Female,Native Hawaiian or Other Pacific Islander,55,44.6333,-90.0068
+67263,WI,Wisconsin,State,247.1,Female,Overall,55,44.6333,-90.0068
+67310,VI,Virgin Islands of the U.S.,State,,Overall,American Indian or Alaska Native,78,17.9473,-64.8015
+67444,TX,Texas,State,437.5,Overall,Black,48,31.4906,-99.3517
+67497,TX,Texas,State,57.1,Overall,More than one race,48,31.4906,-99.3517
+67551,VA,Virginia,State,98.8,Male,More than one race,51,37.5188,-78.8507
+67562,WA,Washington,State,269.8,Overall,Overall,53,47.378,-120.428
+67652,TX,Texas,State,554.4,Male,Black,48,31.4906,-99.3517
+67653,VI,Virgin Islands of the U.S.,State,,Overall,Native Hawaiian or Other Pacific Islander,78,17.9473,-64.8015
+67686,WY,Wyoming,State,312.3,Overall,White,56,42.9984,-107.552
+67858,VA,Virginia,State,238.4,Female,White,51,37.5188,-78.8507
+67933,WV,West Virginia,State,316.5,Female,Overall,54,38.6411,-80.6147
+68002,WA,Washington,State,312.8,Female,American Indian or Alaska Native,53,47.378,-120.428
+68024,UT,Utah,State,199.2,Male,More than one race,49,39.3231,-111.676
+68025,UT,Utah,State,350.2,Female,Native Hawaiian or Other Pacific Islander,49,39.3231,-111.676
+68045,VI,Virgin Islands of the U.S.,State,,Female,Black,78,17.9473,-64.8015
+68068,WI,Wisconsin,State,477.2,Overall,Black,55,44.6333,-90.0068
+68153,WA,Washington,State,224.1,Male,Hispanic,53,47.378,-120.428
+68186,WA,Washington,State,357.9,Male,White,53,47.378,-120.428
+68200,TX,Texas,State,110.6,Female,Asian,48,31.4906,-99.3517
+68255,VA,Virginia,State,276.7,Overall,Native Hawaiian or Other Pacific Islander,51,37.5188,-78.8507
+68261,WI,Wisconsin,State,187.6,Overall,Hispanic,55,44.6333,-90.0068
+68324,VT,Vermont,State,,Female,Hispanic,50,44.0733,-72.661
+68350,TX,Texas,State,206.9,Female,Hispanic,48,31.4906,-99.3517
+68569,WV,West Virginia,State,,Female,More than one race,54,38.6411,-80.6147
+68649,VA,Virginia,State,381.7,Male,Overall,51,37.5188,-78.8507
+68658,WV,West Virginia,State,,Female,American Indian or Alaska Native,54,38.6411,-80.6147
+68685,WY,Wyoming,State,,Overall,Native Hawaiian or Other Pacific Islander,56,42.9984,-107.552
+68753,VI,Virgin Islands of the U.S.,State,,Male,American Indian or Alaska Native,78,17.9473,-64.8015
+68785,UT,Utah,State,242.7,Female,Black,49,39.3231,-111.676
+68841,WY,Wyoming,State,,Female,More than one race,56,42.9984,-107.552
+68963,VI,Virgin Islands of the U.S.,State,,Female,White,78,17.9473,-64.8015
+69070,VT,Vermont,State,,Male,Black,50,44.0733,-72.661
+69114,VT,Vermont,State,246.9,Female,Overall,50,44.0733,-72.661
+69162,WA,Washington,State,171.4,Overall,More than one race,53,47.378,-120.428
+69430,VI,Virgin Islands of the U.S.,State,181.1,Overall,Overall,78,17.9473,-64.8015
+69522,WV,West Virginia,State,147.3,Male,Hispanic,54,38.6411,-80.6147
+69538,UT,Utah,State,263.5,Overall,American Indian or Alaska Native,49,39.3231,-111.676
+69581,WI,Wisconsin,State,245.7,Female,American Indian or Alaska Native,55,44.6333,-90.0068
+69648,WV,West Virginia,State,,Female,Hispanic,54,38.6411,-80.6147
+69672,WA,Washington,State,405.8,Overall,Native Hawaiian or Other Pacific Islander,53,47.378,-120.428
+69676,WI,Wisconsin,State,405.2,Male,Overall,55,44.6333,-90.0068
+69686,VT,Vermont,State,327.2,Overall,White,50,44.0733,-72.661
+69694,VT,Vermont,State,252.0,Female,White,50,44.0733,-72.661
+69739,VI,Virgin Islands of the U.S.,State,,Overall,Hispanic,78,17.9473,-64.8015
+69808,VT,Vermont,State,,Female,Native Hawaiian or Other Pacific Islander,50,44.0733,-72.661
+69904,WI,Wisconsin,State,242.3,Male,Asian,55,44.6333,-90.0068
+69942,VA,Virginia,State,387.3,Male,White,51,37.5188,-78.8507
+69969,WY,Wyoming,State,,Male,Black,56,42.9984,-107.552
+70018,WA,Washington,State,138.1,Female,More than one race,53,47.378,-120.428
+70117,UT,Utah,State,180.8,Overall,Hispanic,49,39.3231,-111.676
+70185,WV,West Virginia,State,493.3,Male,Overall,54,38.6411,-80.6147
+70243,VA,Virginia,State,158.9,Male,Hispanic,51,37.5188,-78.8507
+70266,TX,Texas,State,301.6,Female,Native Hawaiian or Other Pacific Islander,48,31.4906,-99.3517
+70339,WV,West Virginia,State,409.8,Overall,Black,54,38.6411,-80.6147
+70343,WA,Washington,State,343.8,Male,Overall,53,47.378,-120.428
+70370,VA,Virginia,State,72.1,Female,More than one race,51,37.5188,-78.8507
+70387,WI,Wisconsin,State,81.3,Overall,More than one race,55,44.6333,-90.0068
+70473,VI,Virgin Islands of the U.S.,State,,Overall,Asian,78,17.9473,-64.8015
+70488,WA,Washington,State,443.5,Male,American Indian or Alaska Native,53,47.378,-120.428
+70518,TX,Texas,State,50.1,Female,More than one race,48,31.4906,-99.3517
+70546,WI,Wisconsin,State,242.8,Female,White,55,44.6333,-90.0068
+70556,UT,Utah,State,582.0,Male,Native Hawaiian or Other Pacific Islander,49,39.3231,-111.676
+70590,VT,Vermont,State,,Overall,Asian,50,44.0733,-72.661
+70701,WV,West Virginia,State,,Male,Asian,54,38.6411,-80.6147
+70746,VA,Virginia,State,83.6,Overall,More than one race,51,37.5188,-78.8507
+70773,VT,Vermont,State,,Male,Hispanic,50,44.0733,-72.661
+70778,UT,Utah,State,351.7,Male,American Indian or Alaska Native,49,39.3231,-111.676
+70869,TX,Texas,State,349.0,Female,Black,48,31.4906,-99.3517
+70910,UT,Utah,State,356.6,Male,White,49,39.3231,-111.676
+70953,VI,Virgin Islands of the U.S.,State,,Overall,White,78,17.9473,-64.8015
+71073,TX,Texas,State,279.6,Female,White,48,31.4906,-99.3517
+71213,VA,Virginia,State,103.2,Female,Asian,51,37.5188,-78.8507
+71229,VI,Virgin Islands of the U.S.,State,,Male,Native Hawaiian or Other Pacific Islander,78,17.9473,-64.8015
+71255,WY,Wyoming,State,,Female,Asian,56,42.9984,-107.552
+71425,WA,Washington,State,179.3,Overall,Hispanic,53,47.378,-120.428
+71591,WV,West Virginia,State,,Male,More than one race,54,38.6411,-80.6147
+71616,VT,Vermont,State,,Female,American Indian or Alaska Native,50,44.0733,-72.661
+71617,WV,West Virginia,State,,Female,Native Hawaiian or Other Pacific Islander,54,38.6411,-80.6147
+71643,TX,Texas,State,108.7,Overall,American Indian or Alaska Native,48,31.4906,-99.3517
+71692,WY,Wyoming,State,221.4,Female,Overall,56,42.9984,-107.552
+71824,VA,Virginia,State,140.5,Overall,American Indian or Alaska Native,51,37.5188,-78.8507
+71837,TX,Texas,State,423.7,Male,Overall,48,31.4906,-99.3517
+71935,VI,Virgin Islands of the U.S.,State,,Male,White,78,17.9473,-64.8015
+71940,WI,Wisconsin,State,219.9,Male,Hispanic,55,44.6333,-90.0068
+71973,VI,Virgin Islands of the U.S.,State,,Female,More than one race,78,17.9473,-64.8015
+72002,WY,Wyoming,State,,Overall,More than one race,56,42.9984,-107.552
+72010,WV,West Virginia,State,555.2,Male,Black,54,38.6411,-80.6147
+72081,WA,Washington,State,210.5,Male,More than one race,53,47.378,-120.428
+72311,VA,Virginia,State,301.8,Overall,Overall,51,37.5188,-78.8507
+72331,WY,Wyoming,State,131.2,Female,Hispanic,56,42.9984,-107.552
+72393,TX,Texas,State,188.8,Male,Asian,48,31.4906,-99.3517
+72416,WY,Wyoming,State,,Overall,Black,56,42.9984,-107.552
+72498,WV,West Virginia,State,323.8,Female,White,54,38.6411,-80.6147
+72685,WA,Washington,State,216.5,Female,White,53,47.378,-120.428
+72829,WY,Wyoming,State,,Female,Black,56,42.9984,-107.552
+72920,WY,Wyoming,State,,Male,More than one race,56,42.9984,-107.552
+72928,WI,Wisconsin,State,318.4,Overall,Overall,55,44.6333,-90.0068
+72945,WV,West Virginia,State,,Overall,American Indian or Alaska Native,54,38.6411,-80.6147
+72970,VI,Virgin Islands of the U.S.,State,,Male,Hispanic,78,17.9473,-64.8015
+72994,UT,Utah,State,222.1,Male,Hispanic,49,39.3231,-111.676
+73089,TX,Texas,State,458.1,Male,White,48,31.4906,-99.3517
+73100,VI,Virgin Islands of the U.S.,State,,Overall,More than one race,78,17.9473,-64.8015
+73146,WI,Wisconsin,State,205.1,Overall,Asian,55,44.6333,-90.0068
+73157,VT,Vermont,State,418.6,Male,White,50,44.0733,-72.661
+73226,WA,Washington,State,207.4,Female,Overall,53,47.378,-120.428
+73245,VA,Virginia,State,,Female,Native Hawaiian or Other Pacific Islander,51,37.5188,-78.8507
+73246,TX,Texas,State,267.4,Overall,Hispanic,48,31.4906,-99.3517
+73291,VT,Vermont,State,327.1,Overall,Black,50,44.0733,-72.661
+73298,WA,Washington,State,451.3,Male,Black,53,47.378,-120.428
+73332,WY,Wyoming,State,229.1,Female,White,56,42.9984,-107.552
+73432,VT,Vermont,State,,Male,Asian,50,44.0733,-72.661
+73548,WV,West Virginia,State,188.0,Overall,Asian,54,38.6411,-80.6147
+73556,VA,Virginia,State,306.1,Overall,White,51,37.5188,-78.8507
+73683,WY,Wyoming,State,,Female,Native Hawaiian or Other Pacific Islander,56,42.9984,-107.552
+73761,WA,Washington,State,375.3,Overall,American Indian or Alaska Native,53,47.378,-120.428
+73812,WV,West Virginia,State,398.4,Overall,Overall,54,38.6411,-80.6147
+73846,WI,Wisconsin,State,72.2,Female,More than one race,55,44.6333,-90.0068
+73925,TX,Texas,State,458.6,Male,Native Hawaiian or Other Pacific Islander,48,31.4906,-99.3517
+73940,WI,Wisconsin,State,154.3,Female,Hispanic,55,44.6333,-90.0068
+74051,VT,Vermont,State,,Overall,More than one race,50,44.0733,-72.661
+74130,VI,Virgin Islands of the U.S.,State,,Male,Asian,78,17.9473,-64.8015
+74157,UT,Utah,State,310.9,Overall,White,49,39.3231,-111.676
+74458,WI,Wisconsin,State,90.3,Male,More than one race,55,44.6333,-90.0068
+74463,WV,West Virginia,State,,Overall,More than one race,54,38.6411,-80.6147
+74478,WV,West Virginia,State,,Male,Native Hawaiian or Other Pacific Islander,54,38.6411,-80.6147
+74521,WY,Wyoming,State,,Male,Asian,56,42.9984,-107.552
+74581,UT,Utah,State,463.8,Overall,Native Hawaiian or Other Pacific Islander,49,39.3231,-111.676
+74629,VI,Virgin Islands of the U.S.,State,146.8,Female,Overall,78,17.9473,-64.8015
+74644,UT,Utah,State,,Female,More than one race,49,39.3231,-111.676
+74836,VT,Vermont,State,,Overall,Hispanic,50,44.0733,-72.661
+74865,WA,Washington,State,140.5,Overall,Asian,53,47.378,-120.428
+74887,VI,Virgin Islands of the U.S.,State,,Female,Native Hawaiian or Other Pacific Islander,78,17.9473,-64.8015
+75076,VA,Virginia,State,144.7,Male,American Indian or Alaska Native,51,37.5188,-78.8507
+75083,VA,Virginia,State,104.3,Female,Hispanic,51,37.5188,-78.8507
+75104,WY,Wyoming,State,392.9,Male,Overall,56,42.9984,-107.552
+75211,WY,Wyoming,State,358.2,Overall,American Indian or Alaska Native,56,42.9984,-107.552
+75271,TX,Texas,State,146.5,Overall,Asian,48,31.4906,-99.3517
+75289,WV,West Virginia,State,281.8,Female,Black,54,38.6411,-80.6147
+75304,WA,Washington,State,181.4,Male,Asian,53,47.378,-120.428
+75319,UT,Utah,State,199.8,Female,American Indian or Alaska Native,49,39.3231,-111.676
+75338,WI,Wisconsin,State,403.0,Male,White,55,44.6333,-90.0068
+75425,WA,Washington,State,266.2,Female,Black,53,47.378,-120.428
+75478,TX,Texas,State,334.5,Overall,Overall,48,31.4906,-99.3517
+75539,WA,Washington,State,356.2,Overall,Black,53,47.378,-120.428
+75570,VA,Virginia,State,165.9,Male,Asian,51,37.5188,-78.8507
+75592,VT,Vermont,State,,Male,American Indian or Alaska Native,50,44.0733,-72.661
+75600,WA,Washington,State,542.3,Male,Native Hawaiian or Other Pacific Islander,53,47.378,-120.428
+75620,TX,Texas,State,115.8,Male,American Indian or Alaska Native,48,31.4906,-99.3517
+75837,TX,Texas,State,340.6,Male,Hispanic,48,31.4906,-99.3517
+75843,WI,Wisconsin,State,,Overall,Native Hawaiian or Other Pacific Islander,55,44.6333,-90.0068
+76005,TX,Texas,State,361.5,Overall,White,48,31.4906,-99.3517
+76028,VI,Virgin Islands of the U.S.,State,,Male,More than one race,78,17.9473,-64.8015
+76180,VT,Vermont,State,,Male,More than one race,50,44.0733,-72.661
+76181,WI,Wisconsin,State,,Male,Native Hawaiian or Other Pacific Islander,55,44.6333,-90.0068
+76185,VA,Virginia,State,130.8,Overall,Asian,51,37.5188,-78.8507
+76299,VI,Virgin Islands of the U.S.,State,,Male,Black,78,17.9473,-64.8015
+76379,VT,Vermont,State,,Female,Asian,50,44.0733,-72.661
+76384,UT,Utah,State,168.0,Male,Asian,49,39.3231,-111.676
+76588,UT,Utah,State,315.0,Overall,Black,49,39.3231,-111.676
+76652,WY,Wyoming,State,402.6,Male,White,56,42.9984,-107.552
+76760,VA,Virginia,State,304.4,Female,Black,51,37.5188,-78.8507
+76818,UT,Utah,State,347.4,Male,Overall,49,39.3231,-111.676
+76822,WI,Wisconsin,State,354.4,Overall,American Indian or Alaska Native,55,44.6333,-90.0068
+76823,TX,Texas,State,64.1,Male,More than one race,48,31.4906,-99.3517
+76897,WV,West Virginia,State,,Male,American Indian or Alaska Native,54,38.6411,-80.6147
+76945,WY,Wyoming,State,,Male,Native Hawaiian or Other Pacific Islander,56,42.9984,-107.552
+76964,VI,Virgin Islands of the U.S.,State,,Female,Asian,78,17.9473,-64.8015
+76990,UT,Utah,State,139.9,Overall,More than one race,49,39.3231,-111.676
+76998,WY,Wyoming,State,,Female,American Indian or Alaska Native,56,42.9984,-107.552
+77000,WA,Washington,State,137.8,Female,Hispanic,53,47.378,-120.428
+77129,VT,Vermont,State,320.8,Overall,Overall,50,44.0733,-72.661
+77189,VA,Virginia,State,385.9,Overall,Black,51,37.5188,-78.8507
+77210,WV,West Virginia,State,,Overall,Native Hawaiian or Other Pacific Islander,54,38.6411,-80.6147
+77219,WY,Wyoming,State,212.9,Overall,Hispanic,56,42.9984,-107.552
+77242,VA,Virginia,State,,Male,Native Hawaiian or Other Pacific Islander,51,37.5188,-78.8507
+77294,VA,Virginia,State,495.7,Male,Black,51,37.5188,-78.8507
+77300,VT,Vermont,State,,Overall,American Indian or Alaska Native,50,44.0733,-72.661
+77350,UT,Utah,State,257.8,Female,Overall,49,39.3231,-111.676
+77366,WY,Wyoming,State,303.4,Overall,Overall,56,42.9984,-107.552
+77397,UT,Utah,State,368.4,Male,Black,49,39.3231,-111.676
+77427,VI,Virgin Islands of the U.S.,State,222.9,Male,Overall,78,17.9473,-64.8015
+77437,WV,West Virginia,State,405.9,Overall,White,54,38.6411,-80.6147
+77529,TX,Texas,State,376.2,Overall,Native Hawaiian or Other Pacific Islander,48,31.4906,-99.3517
+77610,WI,Wisconsin,State,394.9,Female,Black,55,44.6333,-90.0068
+77642,VI,Virgin Islands of the U.S.,State,,Overall,Black,78,17.9473,-64.8015
+77679,WV,West Virginia,State,106.2,Overall,Hispanic,54,38.6411,-80.6147
+77682,WY,Wyoming,State,,Overall,Asian,56,42.9984,-107.552
+77687,WA,Washington,State,281.5,Overall,White,53,47.378,-120.428
+77706,VI,Virgin Islands of the U.S.,State,,Female,American Indian or Alaska Native,78,17.9473,-64.8015
+77752,WA,Washington,State,280.4,Female,Native Hawaiian or Other Pacific Islander,53,47.378,-120.428
+77755,UT,Utah,State,97.6,Female,Asian,49,39.3231,-111.676
+77964,WY,Wyoming,State,543.5,Male,American Indian or Alaska Native,56,42.9984,-107.552
+77985,VA,Virginia,State,236.9,Female,Overall,51,37.5188,-78.8507
+78031,VT,Vermont,State,,Female,Black,50,44.0733,-72.661
+78042,TX,Texas,State,99.3,Female,American Indian or Alaska Native,48,31.4906,-99.3517
+78135,UT,Utah,State,145.1,Female,Hispanic,49,39.3231,-111.676
+78139,WI,Wisconsin,State,491.5,Male,American Indian or Alaska Native,55,44.6333,-90.0068
+78256,VA,Virginia,State,138.1,Female,American Indian or Alaska Native,51,37.5188,-78.8507
+78436,VT,Vermont,State,,Overall,Native Hawaiian or Other Pacific Islander,50,44.0733,-72.661
+78452,VT,Vermont,State,,Female,More than one race,50,44.0733,-72.661
+78485,VT,Vermont,State,410.2,Male,Overall,50,44.0733,-72.661
+78502,VI,Virgin Islands of the U.S.,State,,Female,Hispanic,78,17.9473,-64.8015
+78534,WI,Wisconsin,State,315.0,Overall,White,55,44.6333,-90.0068
