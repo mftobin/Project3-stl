@@ -5,6 +5,8 @@ Our project analyzed a government dataset of Heart Disease Mortality Data Among 
 
 All of our final code can be found in the **Final Code** folder.
 
+This project was a group collaboration with the following individuals: Chad Coggins, Evan Robinson, Maura Tobin, Jordan Johnson-Williams, and Yolanda Williams
+
 ### Heart Disease Rates by Ethnicity Stacked Chart
 The purpose of this part project is to:
 * Aggregate heart disease rates by state and ethnicity.
