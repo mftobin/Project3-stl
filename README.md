@@ -97,6 +97,9 @@ Our data came in a csv file that we cleaned loading it into **DB Browser** and s
 
 ## Instructions on how to use and interact with the project
 We made several graphs and maps for this project. [Follow this link](https://mftobin.github.io/Project3-stl/) to see the following files:
+* State Female Map
+* State Male Map
+* State Overall Map
 * County Female Map
 * County Male Map
 * County Overall Map
